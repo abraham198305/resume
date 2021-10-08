@@ -47,6 +47,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 ## Industrial Training
   - 1 day training on Automotive Electronic Equipments at Robert Bosch Training Centre, Bangalore, INDIA
   - 15 days in-plant training in ITI (Indian Telephone Industry) LTD, Palghat, Kerala, INDIA.
+
 ## Professional Skills
 - **Hardware**
   - Ability to Design, Implement and Debug Analog & Digital Electronic Circuits. 
@@ -71,7 +72,11 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   Design & Development of Embedded Systems
     - **_Technologies used:_** [Arduino](https://www.arduino.cc/) ([Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3/), [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3)), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
   
-  - **Software Developer** _(Sep 2019 - Nov 2019)_ <br>
+  - **Software Developer** @ [Corehub Solutions Pvt. Ltd.](https://corehub.in/) _(Aug 2019 - Nov 2019)_ <br>
+  Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
+    - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
+  
+  - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_ <br>
   Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
     - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
     
