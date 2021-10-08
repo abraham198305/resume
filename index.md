@@ -122,5 +122,5 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
  
 ## Languages
 
-**Malayalam(മലയാളം)**: Native(മാതൃഭാഷ)<br>
+**മലയാളം(Malayalam)**: മാതൃഭാഷ(Mother tongue)<br>
 **English**: B1
