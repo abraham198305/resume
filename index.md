@@ -75,9 +75,9 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
   
   - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_<br>
-  Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
-    - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
-
+  Handling  hands-on  practical  training  sessions  related  to  Embedded  Systems  &  Internet  of  Things,  for  the students  of  Science  &  Technology.
+    - **_Technologies used:_** [Arduino](https://www.arduino.cc/) ([Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3/)), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThinSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/),
+  
   - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/) _(Aug 2018 - Dec 2018)_<br>
   Implementing additional features for [MIS](https://en.wikipedia.org/wiki/Management_information_system) based Software Systems
     - **_Technologies used:_** Visual Studio, C#, .Net, PHP ([MVC CodeIgniter](https://codeigniter.com/userguide3/overview/mvc.html)), HTML, CSS, Javascript.
@@ -122,5 +122,5 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
  
 ## Languages
 
-**Malayalam**: Native <br>
+**Malayalam(മലയാളം)**: Native(മാതൃഭാഷ)<br>
 **English**: B1
