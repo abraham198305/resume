@@ -57,9 +57,9 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting and basic networking.
     - Ubuntu - Installation, basic networking and shell scripting.
   - ***Programming Languages***
-    - C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, Go, PHP, JavaScript, LaTeX, VHDL, Verilog, C#, HTML, CSS, nesC
+    - C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, [Golang](https://golang.org/), PHP, JavaScript, [LaTeX](https://www.latex-project.org/), [VHDL](https://en.wikipedia.org/wiki/VHDL), [Verilog](https://en.wikipedia.org/wiki/Verilog), C#, HTML, CSS, [nesC](https://en.wikipedia.org/wiki/NesC)
   - ***Technical Software Tools***
-    - MATLAB, LabVIEW, MP-LAB IDE, Proteus, Arduino IDE, Microsoft Visual Studio (2005, 2008), VSCode, Android Studio
+    - [MATLAB](https://en.wikipedia.org/wiki/MATLAB), [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW), [MP-LAB IDE](https://en.wikipedia.org/wiki/MPLAB), [Proteus](https://en.wikipedia.org/wiki/Proteus_Design_Suite), [Arduino IDE](https://www.arduino.cc/en/Guide/Environment), [Microsoft Visual Studio (2005, 2008)](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), [Android Studio](https://en.wikipedia.org/wiki/Android_Studio)
 
 ## History of Employment
   - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/) _(Sep 2020 - Dec 2020)_ <br>
