@@ -15,6 +15,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 
 | COURSE | SUBJECT | INSTITUTION | YEAR OF PASS | MARKS / CGPA |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Master of Technology | Embedded Systems | AMRITA School of Engineering, AMRITA Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, INDIA. | 2010 | 8.45 (CGPA) |
 
 | Center-aligned | Right-aligned |
 |     :---:      |          ---: |
