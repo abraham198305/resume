@@ -29,7 +29,6 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 ## Academic Projects
   - **Master of Technology (Embedded Systems)**
     - **Microcontroller based DC motor speed control**<br>Implemented a closed loop feedback based speed control algorithm in PIC Microcontroller for a DC Motor using variable Pulse Width Modulated (PWM) switching of the supplied DC power to the motor. The speed of the motor is calculated from the pulses generated from a Photo Interrupter sensor setup across the spindle of the motor. The width of the generated PWM switching signal to the motor’s DC power supply is continuously adjusted by the control algorithm based on the difference in the sensed speed and the user desired speed. The user desired speed is sensed through a potentiometer which is adjustable by the user.
-
     - **Feature extraction and classification of ECG signals using Discrete Wavelet Transform and Artificial Neural Networks.**<br>Implemented an algorithm in MATLAB for classification of Electrocardiogram (ECG) Signals. Inbuilt MATLAB functions were used to implement the Artificial Neural Network (ANN). The ECG Database from Physionet is used for ANN training and testing of the program. The Statistical parameters (Standard deviation, Mean, variance, etc..) of the Wavelet coefficients of the ECG signal are taken as the features for detecting the abnormality.
     - **Wireless Embedded System for Powerline Monitoring**<br>Implemented a WiFi and IEEE 802.15.4 based wireless embedded system (Hardware and Software) for continuous monitoring of the electric parameters of an Electric Power Transmission Line. The system consisted of a pair of Hall effect based transducers for sensing the voltage and current on the electric line, Microcontroller with built in ADC modules for signal processing, WiFi and ZigBee based Wireless transceiver modules for wireless communication, Personal Computer for Visualization of the Time & Frequency domain, phasor representation of the voltage and current variations on the line. The software developed using C# and Dot Net using Visual Studio visulaized the following in real-time:
         - Time domain representation of voltage and current waveforms.
@@ -61,7 +60,6 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, Go, PHP, JavaScript, LaTeX, VHDL, Verilog, C#, HTML, CSS, nesC
   - ***Technical Software Tools***
     - MATLAB, LabVIEW, MP-LAB IDE, Proteus, Arduino IDE, Microsoft Visual Studio (2005, 2008), VSCode, Android Studio
-
 
 ## History of Employment
   - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/) _(Sep 2020 - Dec 2020)_ <br>
@@ -115,7 +113,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   Teaching undergraduate engineering students and providing necessary guidance to do their academic projects.
     - **_Subjects handled:_** Television Engineering & Radar Systems, Radiation & Propagation, Information Theory & Coding, Electronic Circuits, Biomedical Instrumentation, Optical Communications, Environmental Science & Engineering, Digital Signal Processing, Microprocessors & Microcontrollers.
 
-  - **Research Associate** @ [Amrita Wireless Networks & Applications](https://www.amrita.edu/center/awna) _(Aug 2010 - Jan 2011)_<br>
+  - **Research Associate** @ [Amrita Centre for Wireless Networks & Applications](https://www.amrita.edu/center/awna) _(Aug 2010 - Jan 2011)_<br>
   Design, Develop, Test & Implement Embedded Systems for Research requirements.
     - **_Technologies used:_** Assembly Language, Embedded C Programming in PIC Microcontrollers, nesC Programming in MicaZ Mote hardware Platform.
   
