@@ -76,7 +76,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   
   - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_<br>
   Handling  hands-on  practical  training  sessions  related  to  Embedded  Systems  &  Internet  of  Things,  for  the students  of  Science  &  Technology.
-    - **_Technologies used:_** [Arduino](https://www.arduino.cc/) ([Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3/)), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThinSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/),
+    - **_Technologies used:_** [Arduino](https://www.arduino.cc/), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThinSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/).
   
   - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/) _(Aug 2018 - Dec 2018)_<br>
   Implementing additional features for [MIS](https://en.wikipedia.org/wiki/Management_information_system) based Software Systems
