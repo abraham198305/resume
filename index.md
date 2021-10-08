@@ -12,38 +12,27 @@ Computer Programming, Computer simulation of electronics & embedded systems, Sou
 Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processing, Robotics and Automation, Embedded Systems, Bio-Signal Processing, Audio Signal Processing
 
 ## Educational Qualification
+**Master of Technology** in Embedded Systems<br>
+[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA _(Jun 2008 - Apr 2010)_<br>
 
-| COURSE | SUBJECT | INSTITUTION | YEAR OF PASS | MARKS / CGPA |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Master of Technology | Embedded Systems | AMRITA School of Engineering, AMRITA Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, INDIA. | 2010 | 8.45 (CGPA) |
+**Bachelor of Technology** in Electronics & Communication Engineering<br>
+[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA _(Jun 2004 - Apr 2007)_<br>
 
-| Center-aligned | Right-aligned |
-|     :---:      |          ---: |
-| git status     | git status    |
-| git diff       | git diff      |
+**Diploma** in Electronics<br>
+[JDT Islam Polytechnic](http://www.jdtpoly.org/Home) - Vellimadukunnu, Kozhikode, Kerala, INDIA _(Jun 2001 - Apr 2004)_<br>
 
-## 👩🏼‍💻 History of Employment
+**Higher Seondary Education**<br>
+[St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA _(Jun 1998 - Apr 2000)_<br>
+
+**Secondary Education**<br>
+[NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, INDIA _(Jun 1989 - Apr 1998)_<br>
+
+## History of Employment
 **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/) _(Sep 2020 - Dec 2020)_ <br>
-Implementation of PDF report generation api
+Implementation of PDF report generation API based on @ [Grafana reporter](https://github.com/IzakMarais/reporter)
   - **_Technologies used:_** Golang, LaTeX, HTML, CSS, Javascript, Websockets.
-<br><br>
     
-## 💬 Languages
+## Languages
 
-**English**: Native <br>
-**German**: A2.2
-<br><br>
-
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Malayalam**: Native <br>
+**English**: B1
