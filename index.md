@@ -72,14 +72,28 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   Design & Development of Embedded Systems
     - **_Technologies used:_** [Arduino](https://www.arduino.cc/) ([Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3/), [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3)), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
   
-  - **Software Developer** @ [Corehub Solutions Pvt. Ltd.](https://corehub.in/) _(Aug 2019 - Nov 2019)_ <br>
+  - **Software Developer** @ [Corehub Solutions Pvt. Ltd.](https://corehub.in/) _(Aug 2019 - Nov 2019)_<br>
   Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
     - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
   
-  - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_ <br>
+  - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_<br>
   Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
     - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
-    
+
+  - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/) _(Aug 2018 - Dec 2018)_<br>
+  Implementing additional features for [MIS](https://en.wikipedia.org/wiki/Management_information_system) based Software Systems
+    - **_Technologies used:_** Visual Studio, C#, .Net, PHP ([MVC CodeIgniter](https://codeigniter.com/userguide3/overview/mvc.html)), HTML, CSS, Javascript.
+  
+  - **System Builder** @ [GeekBoZ - The Tech Store](https://g.page/GeekBoZ?share) _(May 2018 - Aug 2018)_<br>
+  Assembling & performance evaluation of desktop computers for Gaming / high performance applications.
+  
+  - **Helper** @ [New Nila Bakes](https://goo.gl/maps/8U5HL5fyjw1gUQJT6) _(March 2018 - April 2018)_<br>
+  Cleaning utensils and tables after use, on demand preparation of fruit juices, milk shakes, desserts.
+
+  - **Technical Assistant** @ [Kabani Tech - Maker Space](https://www.kabanitech.com/) _(July 2017 - February 2017)_<br>
+  Computer Programming, Microcontroller Programming, Designing & Implementation of Embedded Systems & Electronics Circuits.
+    - **_Technologies used:_** C, Python, HTML, [AVR](https://en.wikipedia.org/wiki/AVR_microcontrollers), [PIC](https://en.wikipedia.org/wiki/PIC_microcontrollers), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
+
 ## Languages
 
 **Malayalam**: Native <br>
