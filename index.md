@@ -1,6 +1,6 @@
 # Abraham Pollayil Alexander
 _A Technology enthusiast with a world view based on Advaita Vedanta philosophy living in Kozhikode, Kerala, India_ <br>
-[Email](mailto:abey.alexander@gmail.com) / [Website](https://www.github.com/abraham19805/resume) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
+[EMail](mailto:abey.alexander@gmail.com) / [Blog](https://avarthi.blogspot.com) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
 
 ## Life Objective
 To learn from, explore and be active in the society by efficiently and effectively utilizing my knowledge, skills and abilities on demand for the sustained and habitable evolution of the ecosystem.
