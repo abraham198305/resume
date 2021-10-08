@@ -1,5 +1,5 @@
 # Abraham Pollayil Alexander
-_A Technology enthusiast with a world view based on Advaita Vedanta philosophy living in Kozhikode, Kerala, India_ <br>
+_A Technology enthusiast with an Advaita Vedantic world view living in Kozhikode, Kerala, India_ <br>
 [EMail](mailto:abey.alexander@gmail.com) / [Blog](https://aavarthi.blogspot.com) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
 
 ## Life Objective
@@ -11,7 +11,7 @@ Computer Programming, Computer simulation of electronics & embedded systems, Sou
 ## Technical Areas of Interest
 Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processing, Robotics and Automation, Embedded Systems, Bio-Signal Processing, Audio Signal Processing
 
-## Educational Qualification
+## Academic Background
   - **Master of Technology** in Embedded Systems<br>
   [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA _(Jun 2008 - Apr 2010)_ with 8.45 CGPA<br>
   - **Bachelor of Technology** in Electronics & Communication Engineering<br>
@@ -36,32 +36,32 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
         - Phasor diagram showing phase difference between voltage and current waveforms.
         - RMS values of voltage and current.<br>
 
-- **Bachelor of Technology (Electronics & Communication Engineering)**
-  - Simulated a 4-bit Microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language.
-  - Designed and Implemented a Computer Controlled Di-Wheeled Robot using PIC16F877 Microcontroller.
+  - **Bachelor of Technology (Electronics & Communication Engineering)**
+    - Simulated a 4-bit Microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language.
+    - Designed and Implemented a Computer Controlled Di-Wheeled Robot using PIC16F877 Microcontroller.
 
-- **Diploma (Electronics)**
-  - Implemented an Electronic Attendance Register based on Intel’s 8085 Microprocessor .
+  - **Diploma (Electronics)**
+    - Implemented an Electronic Attendance Register based on Intel’s 8085 Microprocessor .
 
 ## Industrial Training
   - 1 day training on Automotive Electronic Equipments at Robert Bosch Training Centre, Bangalore, INDIA
   - 15 days in-plant training in ITI (Indian Telephone Industry) LTD, Palghat, Kerala, INDIA.
 
 ## Professional Skills
-- **Hardware**
-  - Ability to Design, Implement and Debug Analog & Digital Electronic Circuits. 
-  - Programming & Interfacing Microprocessor and Microcontroller based systems - 8085/86, PIC, ARM, AVR, Arduino, NodeMCU.
-  - Hardware maintenance and troubleshooting of desktop computers.
-- **Software**
-  - ***Operating System***
-    - Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting and basic networking.
-    - Ubuntu - Installation, basic networking and shell scripting.
-  - ***Programming Languages***
-    - C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, [Golang](https://golang.org/), PHP, JavaScript, [LaTeX](https://www.latex-project.org/), [VHDL](https://en.wikipedia.org/wiki/VHDL), [Verilog](https://en.wikipedia.org/wiki/Verilog), C#, HTML, CSS, [nesC](https://en.wikipedia.org/wiki/NesC)
-  - ***Technical Software Tools***
-    - [MATLAB](https://en.wikipedia.org/wiki/MATLAB), [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW), [MP-LAB IDE](https://en.wikipedia.org/wiki/MPLAB), [Proteus](https://en.wikipedia.org/wiki/Proteus_Design_Suite), [Arduino IDE](https://www.arduino.cc/en/Guide/Environment), [Microsoft Visual Studio (2005, 2008)](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), [Android Studio](https://en.wikipedia.org/wiki/Android_Studio)
+  - **Hardware**
+    - Ability to Design, Implement and Debug Analog & Digital Electronic Circuits. 
+    - Programming & Interfacing Microprocessor and Microcontroller based systems - 8085/86, PIC, ARM, AVR, Arduino, NodeMCU.
+    - Hardware maintenance and troubleshooting of desktop computers.
+  - **Software**
+    - ***Operating System***
+      - Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting and basic networking.
+      - Ubuntu - Installation, basic networking and shell scripting.
+    - ***Programming Languages***
+      - C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, [Golang](https://golang.org/), PHP, JavaScript, [LaTeX](https://www.latex-project.org/), [VHDL](https://en.wikipedia.org/wiki/VHDL), [Verilog](https://en.wikipedia.org/wiki/Verilog), C#, HTML, CSS, [nesC](https://en.wikipedia.org/wiki/NesC)
+    - ***Technical Software Tools***
+      - [MATLAB](https://en.wikipedia.org/wiki/MATLAB), [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW), [MP-LAB IDE](https://en.wikipedia.org/wiki/MPLAB), [Proteus](https://en.wikipedia.org/wiki/Proteus_Design_Suite), [Arduino IDE](https://www.arduino.cc/en/Guide/Environment), [Microsoft Visual Studio (2005, 2008)](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), [Android Studio](https://en.wikipedia.org/wiki/Android_Studio)
 
-## History of Employment
+## Employment History
   - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/) _(Sep 2020 - Dec 2020)_ <br>
   Implementation of PDF report generation API based on @ [Grafana reporter](https://github.com/IzakMarais/reporter)
     - **_Technologies used:_** [Golang](https://golang.org/), [LaTeX](https://www.latex-project.org/), HTML, CSS, Javascript, Websockets.
