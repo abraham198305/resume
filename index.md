@@ -90,10 +90,38 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   - **Helper** @ [New Nila Bakes](https://goo.gl/maps/8U5HL5fyjw1gUQJT6) _(March 2018 - April 2018)_<br>
   Cleaning utensils and tables after use, on demand preparation of fruit juices, milk shakes, desserts.
 
-  - **Technical Assistant** @ [Kabani Tech - Maker Space](https://www.kabanitech.com/) _(July 2017 - February 2017)_<br>
+  - **Technical Assistant** @ [Kabani Tech - Maker Space](https://www.kabanitech.com/) _(July 2017 - February 2018)_<br>
   Computer Programming, Microcontroller Programming, Designing & Implementation of Embedded Systems & Electronics Circuits.
     - **_Technologies used:_** C, Python, HTML, [AVR](https://en.wikipedia.org/wiki/AVR_microcontrollers), [PIC](https://en.wikipedia.org/wiki/PIC_microcontrollers), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
 
+  - **Sales Assistant** @ [Edumart - HyperMarket](https://goo.gl/maps/oixXUcsg9aLrNRX18) _(July 2017 - July 2017)_<br>
+  Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase.
+  
+  - **Trainee Assistant Mechanic** @ [Shyam Motors](https://goo.gl/maps/ZRubnRNRSSkn1t4L8) _(June 2017 - June 2017)_<br>
+  Cleaning vehicle parts as a part of service and repair, assistance in service and repair of vehicles.
+
+  - **Computer Technician** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(June 2016 - March 2017)_<br>
+  Configuration, Troubleshooting and Maintenance of Computers, Printers, Scanners, Projectors and their Network.
+ 
+  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(June 2015 - May 2016)_<br>
+  Teaching undergraduate engineering students and providing necessary guidance to do their academic projects.
+    - **_Subjects handled:_** Digital Electronics, Sustainable Engineering, Digital Communications, Microprocessors & Microcontrollers.
+  
+  - **Project Associate** @ [Dept. of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in/) _(Feb 2015 - May 2015)_<br>
+  Implementation of Interactive Voice Response System for Automated Speech Recognition.
+    - **_Technologies used:_** Linux scripting, PHP, [Kaldi ASR](https://kaldi-asr.org/), [Asterisk Framework](https://www.asterisk.org/).
+ 
+  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(Feb 2011 - Jan 2015)_<br>
+  Teaching undergraduate engineering students and providing necessary guidance to do their academic projects.
+    - **_Subjects handled:_** Television Engineering & Radar Systems, Radiation & Propagation, Information Theory & Coding, Electronic Circuits, Biomedical Instrumentation, Optical Communications, Environmental Science & Engineering, Digital Signal Processing, Microprocessors & Microcontrollers.
+
+  - **Research Associate** @ [Amrita Wireless Networks & Applications](https://www.amrita.edu/center/awna) _(Aug 2010 - Jan 2011)_<br>
+  Design, Develop, Test & Implement Embedded Systems for Research requirements.
+    - **_Technologies used:_** Assembly Language, Embedded C Programming in PIC Microcontrollers, nesC Programming in MicaZ Mote hardware Platform.
+  
+  - **Member Technical Staff** @ [HCL Technologies](https://www.hcltech.com/) _(Aug 2007 - Apr 2008)_<br>
+  Functional testing of MiddleWare software for Banking Application.
+ 
 ## Languages
 
 **Malayalam**: Native <br>
