@@ -13,15 +13,23 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 
 ## Academic Background
   - **Master of Technology** in Embedded Systems<br>
-  [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA _(Jun 2008 - Apr 2010)_ with 8.45 CGPA<br>
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA 
+    - _Jun 2008 - Apr 2010_ | _8.45 CGPA_<br>
   - **Bachelor of Technology** in Electronics & Communication Engineering<br>
-  [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA _(Jun 2004 - Apr 2007)_ with 6.73 CGPA<br>
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA 
+    - _Jun 2004 - Apr 2007_ | _6.73 CGPA_<br>
   - **Diploma** in Electronics<br>
-  [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) - Vellimadukunnu, Kozhikode, Kerala, INDIA _(Jun 2001 - Apr 2004)_ with 80.5 %<br>
+    - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) - Vellimadukunnu, Kozhikode, Kerala, INDIA 
+    - _Jun 2001 - Apr 2004_ | _80.5 %_<br>
+  - **Certificate Course** in Computer Hardware & Networking<br>
+    - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
+    - _Jul 2000 - Dec 2000_ | _B Grade_<br>
   - **Higher Seondary Education**<br>
-  [St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA _(Jun 1998 - Apr 2000)_ with 42.3 %<br>
+    - [St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA 
+    - _Jun 1998 - Apr 2000_ | _42.3 %_<br>
   - **Secondary Education**<br>
-  [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, INDIA _(Jun 1989 - Apr 1998)_ with 62.66 %<br>
+    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, INDIA 
+    - _Jun 1989 - Apr 1998_ | _62.66 %_<br>
 
 ## Paper Publication
   - [P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, Wireless Embedded System for Power Line Monitoring, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42](http://www.journal.bonfring.org/abstract.php?id=5&archiveid=70#)
