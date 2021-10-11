@@ -70,64 +70,64 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
       - [MATLAB](https://en.wikipedia.org/wiki/MATLAB), [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW), [MP-LAB IDE](https://en.wikipedia.org/wiki/MPLAB), [Proteus](https://en.wikipedia.org/wiki/Proteus_Design_Suite), [Arduino IDE](https://www.arduino.cc/en/Guide/Environment), [Microsoft Visual Studio (2005, 2008)](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio), [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), [Android Studio](https://en.wikipedia.org/wiki/Android_Studio)
 
 ## Employment History
-  - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/) _(Sep 2020 - Dec 2020)_ <br>
+  - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/)<br>
   Implementation of PDF report generation API based on @ [Grafana reporter](https://github.com/IzakMarais/reporter)
     - **_Technologies used:_** [Golang](https://golang.org/), [LaTeX](https://www.latex-project.org/), HTML, CSS, Javascript, Websockets.
-  
-  - **Freelance Embedded Engineer** _(Nov 2019 - Sep 2020)_ <br>
+    - _Sep 2020 - Dec 2020_
+  - **Freelance Embedded Engineer**<br>
   Design & Development of Embedded Systems
     - **_Technologies used:_** [Arduino](https://www.arduino.cc/) ([Arduino UNO](https://store.arduino.cc/products/arduino-uno-rev3/), [Arduino Mega](https://store.arduino.cc/products/arduino-mega-2560-rev3)), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
-  
-  - **Software Developer** @ [Corehub Solutions Pvt. Ltd.](https://corehub.in/) _(Aug 2019 - Nov 2019)_<br>
+    - _Nov 2019 - Sep 2020_ 
+  - **Software Developer** @ [Corehub Solutions Pvt. Ltd.](https://corehub.in/)<br>
   Design & Development of [CMS](https://en.wikipedia.org/wiki/Content_management_system) based Web Applications
     - **_Technologies used:_** [Golang](https://golang.org/), HTML, CSS, Javascript.
-  
-  - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/) _(Feb 2019 - Aug 2019)_<br>
+    - _Aug 2019 - Nov 2019_
+  - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/)<br>
   Handling  hands-on  practical  training  sessions  related  to  Embedded  Systems  &  Internet  of  Things,  for  the students  of  Science  &  Technology.
     - **_Technologies used:_** [Arduino](https://www.arduino.cc/), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThinSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/).
-  
-  - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/) _(Aug 2018 - Dec 2018)_<br>
+    - _Feb 2019 - Aug 2019_
+  - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/)<br>
   Implementing additional features for [MIS](https://en.wikipedia.org/wiki/Management_information_system) based Software Systems
     - **_Technologies used:_** Visual Studio, C#, .Net, PHP ([MVC CodeIgniter](https://codeigniter.com/userguide3/overview/mvc.html)), HTML, CSS, Javascript.
-  
-  - **System Builder** @ [GeekBoZ - The Tech Store](https://g.page/GeekBoZ?share) _(May 2018 - Aug 2018)_<br>
+    - _Aug 2018 - Dec 2018_
+  - **System Builder** @ [GeekBoZ - The Tech Store](https://g.page/GeekBoZ?share)<br>
   Assembling & performance evaluation of desktop computers for Gaming / high performance applications.
-  
-  - **Helper** @ [New Nila Bakes](https://goo.gl/maps/8U5HL5fyjw1gUQJT6) _(March 2018 - April 2018)_<br>
+    - _May 2018 - Aug 2018_
+  - **Helper** @ [New Nila Bakes](https://goo.gl/maps/8U5HL5fyjw1gUQJT6)<br>
   Cleaning utensils and tables after use, on demand preparation of fruit juices, milk shakes, desserts.
-
-  - **Technical Assistant** @ [Kabani Tech - Maker Space](https://www.kabanitech.com/) _(July 2017 - February 2018)_<br>
+    - _Mar 2018 - Apr 2018_
+  - **Technical Assistant** @ [Kabani Tech - Maker Space](https://www.kabanitech.com/)<br>
   Computer Programming, Microcontroller Programming, Designing & Implementation of Embedded Systems & Electronics Circuits.
     - **_Technologies used:_** C, Python, HTML, [AVR](https://en.wikipedia.org/wiki/AVR_microcontrollers), [PIC](https://en.wikipedia.org/wiki/PIC_microcontrollers), [NodeMCU](https://www.nodemcu.com/index_en.html), [Raspberry Pi](https://www.raspberrypi.org/), [Python](https://www.python.org/).
-
-  - **Sales Assistant** @ [Edumart - HyperMarket](https://goo.gl/maps/oixXUcsg9aLrNRX18) _(July 2017 - July 2017)_<br>
+    - _Jul 2017 - Feb 2018_
+  - **Sales Assistant** @ [Edumart - HyperMarket](https://goo.gl/maps/oixXUcsg9aLrNRX18)<br>
   Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase.
-  
-  - **Trainee Assistant Mechanic** @ [Shyam Motors](https://goo.gl/maps/ZRubnRNRSSkn1t4L8) _(June 2017 - June 2017)_<br>
+    - _Jul 2017 - Jul 2017_
+  - **Trainee Assistant Mechanic** @ [Shyam Motors](https://goo.gl/maps/ZRubnRNRSSkn1t4L8)<br>
   Cleaning vehicle parts as a part of service and repair, assistance in service and repair of vehicles.
-
-  - **Computer Technician** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(June 2016 - March 2017)_<br>
+    - _Jun 2017 - Jun 2017_
+  - **Computer Technician** @ [Jyothi Engineering College](https://www.jecc.ac.in/)<br>
   Configuration, Troubleshooting and Maintenance of Computers, Printers, Scanners, Projectors and their Network.
- 
-  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(June 2015 - May 2016)_<br>
+    - _Jun 2016 - Mar 2017_
+  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/)<br>
   Teaching undergraduate engineering students and providing necessary guidance to do their academic projects.
     - **_Subjects handled:_** Digital Electronics, Sustainable Engineering, Digital Communications, Microprocessors & Microcontrollers.
-  
-  - **Project Associate** @ [Dept. of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in/) _(Feb 2015 - May 2015)_<br>
+    - _Jun 2015 - May 2016_
+  - **Project Associate** @ [Dept. of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in/)<br>
   Implementation of Interactive Voice Response System with Automated Speech Recognition.
     - **_Technologies used:_** Linux scripting, PHP, [Kaldi ASR](https://kaldi-asr.org/), [Asterisk Framework](https://www.asterisk.org/).
- 
-  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/) _(Feb 2011 - Jan 2015)_<br>
+    - _Feb 2015 - May 2015_
+  - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/)<br>
   Teaching undergraduate engineering students and providing necessary guidance to do their academic projects.
     - **_Subjects handled:_** Television Engineering & Radar Systems, Radiation & Propagation, Information Theory & Coding, Electronic Circuits, Biomedical Instrumentation, Optical Communications, Environmental Science & Engineering, Digital Signal Processing, Microprocessors & Microcontrollers.
-
-  - **Research Associate** @ [Amrita Centre for Wireless Networks & Applications](https://www.amrita.edu/center/awna) _(Aug 2010 - Jan 2011)_<br>
+    - _Feb 2011 - Jan 2015_
+  - **Research Associate** @ [Amrita Centre for Wireless Networks & Applications](https://www.amrita.edu/center/awna)<br>
   Design, Develop, Test & Implement Embedded Systems for Research requirements.
     - **_Technologies used:_** Assembly Language, Embedded C Programming in PIC Microcontrollers, nesC Programming in MicaZ Mote hardware Platform.
-  
-  - **Member Technical Staff** @ [HCL Technologies](https://www.hcltech.com/) _(Aug 2007 - Apr 2008)_<br>
+    - _Aug 2010 - Jan 2011_
+  - **Member Technical Staff** @ [HCL Technologies](https://www.hcltech.com/)<br>
   Functional testing of MiddleWare software for Banking Application.
- 
+    - _Aug 2007 - Apr 2008_
 ## Languages
 
 **മലയാളം(Malayalam)**: മാതൃഭാഷ(Mother tongue)<br>
