@@ -128,7 +128,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   - **Member Technical Staff** @ [HCL Technologies](https://www.hcltech.com/)<br>
   Functional testing of MiddleWare software for Banking Application.
     - _Aug 2007 - Apr 2008_
-
+<br>
 ## Languages
 
 **മലയാളം(Malayalam)**: മാതൃഭാഷ(Mother tongue)<br>
