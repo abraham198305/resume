@@ -59,7 +59,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   - **Hardware**
     - Ability to Design, Implement and Debug Analog & Digital Electronic Circuits. 
     - Programming & Interfacing Microprocessor and Microcontroller based systems - 8085/86, PIC, ARM, AVR, Arduino, NodeMCU.
-    - Hardware maintenance and troubleshooting of desktop computers.
+    - Hardware maintenance and troubleshooting of desktop computers & related peripherals.
   - **Software**
     - ***Operating System***
       - Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting and basic networking.
@@ -71,7 +71,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 
 ## Employment History
   - **Software Developer** @ [Three Phase Techno Solutions](https://www.3phtechsolutions.com/)<br>
-  Implementation of PDF report generation API based on @ [Grafana reporter](https://github.com/IzakMarais/reporter)
+  Implementation of PDF report generation API based on [Grafana reporter](https://github.com/IzakMarais/reporter)
     - **_Technologies used:_** [Golang](https://golang.org/), [LaTeX](https://www.latex-project.org/), HTML, CSS, Javascript, Websockets.
     - _Sep 2020 - Dec 2020_
   - **Freelance Embedded Engineer**<br>
