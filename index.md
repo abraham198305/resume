@@ -24,7 +24,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   - **Certificate Course** in Computer Hardware Troubleshooting & Maintenance<br>
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - _Jun 2000 - Dec 2000_ | _B Grade_<br>
-  - **Higher Seondary Education**<br>
+  - **Higher Secondary Education**<br>
     - [St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA 
     - _Jun 1998 - Apr 2000_ | _42.3 %_<br>
   - **Secondary Education**<br>
