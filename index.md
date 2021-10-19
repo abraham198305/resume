@@ -1,6 +1,6 @@
 # Abraham Pollayil Alexander
-_A Technology enthusiast with nondualistic world view living in Kozhikode, Kerala, India_ <br>
-[EMail](mailto:abey.alexander@gmail.com) / [Blog](https://aavarthi.blogspot.com) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
+_A Technology enthusiast with non-dualistic (Advaita) world view living in Kozhikode, Kerala, India_<br>
+[EMail](mailto:abey.alexander@gmail.com) / [Blog](https://abraham198305.github.io/aavarthi) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
 
 ## Life Objective
 To learn from, explore and be active in the society by efficiently and effectively utilizing my knowledge, skills and abilities on demand for the sustained and habitable evolution of the ecosystem.
@@ -84,7 +84,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - _Aug 2019 - Nov 2019_
   - **Freelance Technical Trainer** @ [ICT Academy of Kerala](https://ictkerala.org/)<br>
   Handling  hands-on  practical  training  sessions  related  to  Embedded  Systems  &  Internet  of  Things,  for  the students  of  Science  &  Technology.
-    - **_Technologies used:_** [Arduino](https://www.arduino.cc/), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThinSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/).
+    - **_Technologies used:_** [Arduino](https://www.arduino.cc/), [NodeMCU](https://www.nodemcu.com/index_en.html), [Ubidots](https://ubidots.com/), [ThingSpeak](https://thingspeak.com/), [Blynk](https://blynk.io/).
     - _Feb 2019 - Aug 2019_
   - **Computer Programmer** @ [Decare Software Solutions](https://decare.team/)<br>
   Implementing additional features for [MIS](https://en.wikipedia.org/wiki/Management_information_system) based Software Systems
