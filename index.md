@@ -28,7 +28,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - [St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA 
     - _Jun 1998 - Apr 2000_ | _42.3 %_<br>
   - **Secondary Education**<br>
-    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, INDIA 
+    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, Kerala, INDIA 
     - _Jun 1989 - Apr 1998_ | _62.66 %_<br>
 
 ## Paper Publication
