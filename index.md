@@ -32,7 +32,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - _Jun 1989 - Apr 1998_ | _62.66 %_<br>
 
 ## Paper Publication
-  - [P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, Wireless Embedded System for Power Line Monitoring, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42](http://www.journal.bonfring.org/abstract.php?id=5&archiveid=70#)
+  - P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, [_Wireless Embedded System for Power Line Monitoring_](http://www.journal.bonfring.org/abstract.php?id=5&archiveid=70#), Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42.
 
 ## Academic Projects
   - **Master of Technology (Embedded Systems)**
@@ -130,5 +130,5 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - _Aug 2007 - Apr 2008_
 
 ## Languages
-**മലയാളം(Malayalam)**: മാതൃഭാഷ(Mother tongue)<br>
+**മലയാളം(Malayalam)**: മാതൃഭാഷ(Mother tongue, Native)<br>
 **English**: [B1](https://www.britishcouncil.es/en/english/levels/b1)
