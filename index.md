@@ -114,7 +114,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
     - **_Subjects handled:_** Digital Electronics, Sustainable Engineering, Digital Communications, Microprocessors & Microcontrollers.
     - _Jun 2015 - May 2016_
   - **Project Associate** @ [Dept. of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in/)<br>
-  Implementation of Interactive Voice Response System with Automated Speech Recognition [ASR Mandi Project] (https://asrmandi.wixsite.com/asrmandi).
+  Implementation of Interactive Voice Response System with Automated Speech Recognition [ASR Mandi Project](https://asrmandi.wixsite.com/asrmandi).
     - **_Technologies used:_** Linux scripting, PHP, [Kaldi ASR](https://kaldi-asr.org/), [Asterisk Framework](https://www.asterisk.org/).
     - _Feb 2015 - May 2015_
   - **Assistant Professor** @ [Jyothi Engineering College](https://www.jecc.ac.in/)<br>
