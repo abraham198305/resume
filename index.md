@@ -21,7 +21,7 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
   - **Diploma** in Electronics<br>
     - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) - Vellimadukunnu, Kozhikode, Kerala, INDIA 
     - _Jun 2001 - Apr 2004_ | _80.5 %_<br>
-  - **Certificate Course** in Computer Hardware Troubleshooting & Maintenance<br>
+  - **Certificate Course** in Computer Hardware Maintenance & Troubleshooting<br>
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - _Jun 2000 - Dec 2000_ | _B Grade_<br>
   - **Higher Secondary Education**<br>
