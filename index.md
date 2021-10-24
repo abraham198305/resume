@@ -12,14 +12,35 @@ Computer Programming, Computer simulation of electronics & embedded systems, Sou
 Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processing, Robotics and Automation, Embedded Systems, Bio-Signal Processing, Audio Signal Processing
 
 ## Academic Background
-| COURSE | SPECIALIZATION | INSTITUTION | TIME PERIOD | SCORE |
-| :---: | :---: | :---: | :---: | :---: |
-| Master of Technology | Embedded Systems | [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) | Jun 2008 - Apr 2010 | 8.45 CGPA |
-| Batchelor of Technology | Electronics & Communication Engineering | [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) | Jun 2004 - Apr 2007 | 6.73 CGPA |
-| Diploma | Electronics | [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) | Jun 2001 - Mar 2004 | 80.5 % |
-| Certification | Computer Hardware Maintenance & Troubleshooting | [Dhishna Learning Systems](http://dhishnaevents.blogspot.com/) | Jun 2000 - Dec 2000 | B Grade |
-| Higher Secondary Education | Physics, Chemistry & Mathematics | [St. Mary's College](https://stmarysbathery.ac.in/) | Jun 1998 - Mar 2000 | 42.3 % |
-| Secondary Education | Malayalam, English, Hindi, Mathematics, Physics, Chemistry, Biology, Computer Science, History, Geography & Economics | [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) | Jun 1988 to Mar 1998 | 62.66 % |
+  - **Master of Technology**<br>
+  _Embedded Systems_
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
+    - `Jun 2008 to Apr 2010` 
+    - `8.45 CGPA`
+  - **Bachelor of Technology**<br>
+  _Electronics & Communication Engineering_
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
+    - `Jun 2004 to Apr 2007` 
+    - `6.73 CGPA`
+  - **Diploma**<br>
+  _Electronics_
+    - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
+    - `Jun 2001 to Apr 2004` 
+    - `80.5 %`
+  - **Certificate Course**<br>
+  _Computer Hardware Maintenance & Troubleshooting_
+    - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
+    - `Jun 2000 to Dec 2000` 
+    - `B Grade`
+  - **Higher Secondary Education**<br>
+  _Pre-Degree (Physics, Chemistry & Mathematics)_
+    - [St. Mary's College](https://stmarysbathery.ac.in/) 
+    - `Jun 1998 to Apr 2000`
+    - `42.3 %`
+  - **Secondary Education**<br>
+    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) 
+    - `Jun 1989 to Apr 1998`
+    - `62.66 %`
 
 ## Paper Publication
   - P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, [_Wireless Embedded System for Power Line Monitoring_](http://www.journal.bonfring.org/abstract.php?id=5&archiveid=70#), Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42.
