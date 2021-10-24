@@ -12,23 +12,28 @@ Computer Programming, Computer simulation of electronics & embedded systems, Sou
 Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processing, Robotics and Automation, Embedded Systems, Bio-Signal Processing, Audio Signal Processing
 
 ## Academic Background
-  - **Master of Technology** in Embedded Systems<br>
+  - **Master of Technology**<br>
+  Embedded Systems
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2008 to Apr 2010` 
     - `8.45 CGPA`
-  - **Bachelor of Technology** in Electronics & Communication Engineering<br>
+  - **Bachelor of Technology**
+  _Electronics & Communication Engineering_
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2004 to Apr 2007` 
     - `6.73 CGPA`
-  - **Diploma** in Electronics<br>
+  - **Diploma**
+  _Electronics_
     - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
     - `Jun 2001 to Apr 2004` 
     - `80.5 %`
-  - **Certificate Course** in Computer Hardware Maintenance & Troubleshooting<br>
+  - **Certificate Course**
+  _Computer Hardware Maintenance & Troubleshooting_
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - `Jun 2000 to Dec 2000` 
     - `B Grade`
   - **Higher Secondary Education**<br>
+  _Pre-Degree (Physics, Chemistry & Mathematics)_
     - [St. Mary's College](https://stmarysbathery.ac.in/) 
     - `Jun 1998 to Apr 2000`
     - `42.3 %`
