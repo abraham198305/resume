@@ -14,22 +14,28 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 ## Academic Background
   - **Master of Technology** in Embedded Systems<br>
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
-    - `Jun 2008 to Apr 2010` `8.45 CGPA`<br>
+    - `Jun 2008 to Apr 2010` 
+    - `8.45 CGPA`
   - **Bachelor of Technology** in Electronics & Communication Engineering<br>
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
-    - `Jun 2004 to Apr 2007` `6.73 CGPA`<br>
+    - `Jun 2004 to Apr 2007` 
+    - `6.73 CGPA`
   - **Diploma** in Electronics<br>
     - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
-    - `Jun 2001 to Apr 2004` `80.5 %`<br>
+    - `Jun 2001 to Apr 2004` 
+    - `80.5 %`
   - **Certificate Course** in Computer Hardware Maintenance & Troubleshooting<br>
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
-    - `Jun 2000 to Dec 2000` `B Grade`<br>
+    - `Jun 2000 to Dec 2000` 
+    - `B Grade`
   - **Higher Secondary Education**<br>
     - [St. Mary's College](https://stmarysbathery.ac.in/) 
-    - `Jun 1998 to Apr 2000` `42.3 %`<br>
+    - `Jun 1998 to Apr 2000`
+    - `42.3 %`
   - **Secondary Education**<br>
     - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) 
-    - `Jun 1989 to Apr 1998` `62.66 %`<br>
+    - `Jun 1989 to Apr 1998`
+    - `62.66 %`
 
 ## Paper Publication
   - P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, [_Wireless Embedded System for Power Line Monitoring_](http://www.journal.bonfring.org/abstract.php?id=5&archiveid=70#), Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42.
