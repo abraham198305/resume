@@ -13,21 +13,21 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 
 ## Academic Background
   - **Master of Technology**<br>
-  Embedded Systems
+  _Embedded Systems_
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2008 to Apr 2010` 
     - `8.45 CGPA`
-  - **Bachelor of Technology**
+  - **Bachelor of Technology**<br>
   _Electronics & Communication Engineering_
     - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2004 to Apr 2007` 
     - `6.73 CGPA`
-  - **Diploma**
+  - **Diploma**<br>
   _Electronics_
     - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
     - `Jun 2001 to Apr 2004` 
     - `80.5 %`
-  - **Certificate Course**
+  - **Certificate Course**<br>
   _Computer Hardware Maintenance & Troubleshooting_
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - `Jun 2000 to Dec 2000` 
