@@ -65,10 +65,10 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 ## Interships
   - **[Robert Bosch Training Centre](https://goo.gl/maps/YfZLDZx3JXJJDN4N9)**<br>
     Familiarization of Automotive Electronic Equipments 
-    - ***Duration:*** `1 Day` `9 Oct 2009`
+    - ***Duration:*** 1 Day (9 Oct 2009)
   - **[ITI (Indian Telephone Industry) Ltd.](https://www.itiltd.in/palakkad)**<br>
     In-plant training to get familiarized with the various sections and processes related to the Manufacturing of Telecommunication Equipments  
-    - ***Duration:*** `15 Days` `2 May 2005 to 17 May 2005`
+    - ***Duration:*** 15 Days (2 May 2005 to 17 May 2005)
 
 ## Professional Skills
   - **Hardware**
