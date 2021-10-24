@@ -12,33 +12,27 @@ Computer Programming, Computer simulation of electronics & embedded systems, Sou
 Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processing, Robotics and Automation, Embedded Systems, Bio-Signal Processing, Audio Signal Processing
 
 ## Academic Background
-  - **Master of Technology**<br>
+  - **Master of Technology** from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore)<br>
   _Embedded Systems_
-    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2008 to Apr 2010` 
     - `8.45 CGPA`
-  - **Bachelor of Technology**<br>
+  - **Bachelor of Technology** from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) <br>
   _Electronics & Communication Engineering_
-    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - `Jun 2004 to Apr 2007` 
     - `6.73 CGPA`
-  - **Diploma**<br>
+  - **Diploma** from [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) <br>
   _Electronics_
-    - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
     - `Jun 2001 to Apr 2004` 
     - `80.5 %`
-  - **Certificate Course**<br>
+  - **Certification** from [Dhishna Learning Systems](http://dhishnaevents.blogspot.com/)<br>
   _Computer Hardware Maintenance & Troubleshooting_
-    - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - `Jun 2000 to Dec 2000` 
     - `B Grade`
-  - **Higher Secondary Education**<br>
+  - **Higher Secondary Education** from [St. Mary's College](https://stmarysbathery.ac.in/)<br>
   _Pre-Degree (Physics, Chemistry & Mathematics)_
-    - [St. Mary's College](https://stmarysbathery.ac.in/) 
     - `Jun 1998 to Apr 2000`
     - `42.3 %`
-  - **Secondary Education**<br>
-    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) 
+  - **Secondary Education** from [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta)<br> 
     - `Jun 1989 to Apr 1998`
     - `62.66 %`
 
