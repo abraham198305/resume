@@ -13,22 +13,22 @@ Analog and Digital Electronics, Audio and Video Systems, Digital Signal Processi
 
 ## Academic Background
   - **Master of Technology** in Embedded Systems<br>
-    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA 
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - _Jun 2008 - Apr 2010_ | _8.45 CGPA_<br>
   - **Bachelor of Technology** in Electronics & Communication Engineering<br>
-    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) - Coimbatore, Tamilnadu, INDIA 
+    - [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/school/engineering/coimbatore) 
     - _Jun 2004 - Apr 2007_ | _6.73 CGPA_<br>
   - **Diploma** in Electronics<br>
-    - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) - Vellimadukunnu, Kozhikode, Kerala, INDIA 
+    - [JDT Islam Polytechnic](http://www.jdtpoly.org/Home) 
     - _Jun 2001 - Apr 2004_ | _80.5 %_<br>
   - **Certificate Course** in Computer Hardware Maintenance & Troubleshooting<br>
     - Dhishna Learning Systems, Kozhikode, Kerala, INDIA
     - _Jun 2000 - Dec 2000_ | _B Grade_<br>
   - **Higher Secondary Education**<br>
-    - [St. Mary's College](https://stmarysbathery.ac.in/) - Sulthan's Battery, Wayanad, Kerala, INDIA 
+    - [St. Mary's College](https://stmarysbathery.ac.in/) 
     - _Jun 1998 - Apr 2000_ | _42.3 %_<br>
   - **Secondary Education**<br>
-    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) - Kalpetta, Wayanad, Kerala, INDIA 
+    - [NSS High School](https://in.linkedin.com/company/nss-higher-secondary-school-kalpetta) 
     - _Jun 1989 - Apr 1998_ | _62.66 %_<br>
 
 ## Paper Publication
