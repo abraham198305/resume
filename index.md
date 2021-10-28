@@ -1,5 +1,5 @@
 # Abraham Pollayil Alexander
-_A Technology enthusiast with non-dualistic (Advaita) world view living in Kozhikode, Kerala, India_<br>
+_A Technology enthusiast with orthodox christian world view living in Kozhikode, Kerala, India_<br>
 [E-Mail](mailto:abey.alexander@gmail.com) / [Blog](https://abraham198305.github.io/aavarthi) / [Facebook](https://www.facebook.com/abraham.pollayil.alexander) / [GitHub](https://github.com/abraham198305/) / [Flickr](https://www.flickr.com/photos/abey)
 
 ## Life Objective
