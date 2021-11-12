@@ -1,6 +1,6 @@
 $(fnInit())
 
-var links = {};
+var links;
 
 function fnInit() {
  console.log("init");
@@ -12,6 +12,7 @@ function fnLoadData() {
   .then(response => response.json())
   .then(data => {
    links = data;
+   console.log(links);
   });
 
  fetch("data.json")
