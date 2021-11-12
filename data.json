@@ -1,0 +1,132 @@
+{
+ "objective": {
+  "icon": "far fa-compass",
+  "title": "Life Objective",
+  "content": "<i>To learn from, explore and be active in the society by efficiently & effectively utilizing my knowledge, skills & abilities on demand for the sustained & habitable evolution of the ecosystem.<i>"
+ },
+ "hobbies": {
+  "icon": "fas fa-puzzle-piece",
+  "title": "Hobbies",
+  "content": "Computer Programming, Computer simulation of electronics & embedded systems, Sound editing, Playing simulation based computer games (4 Wheelers & Aircraft), Reading technical & philosophical books, Blogging about my philosophical & technical thoughts, Listening to instrumental, new age & melodious musics, Watching science fiction & philosophical movies, Photography, Exploring philosophical & technical information openly available through the internet."
+ },
+ "interests": {
+  "icon": "fas fa-book",
+  "title": "Areas of Interest",
+  "content": "Philosophy, Theosophy, Metaphysics, Spirituality, Psychology, Parapsychology, Astrology, Yoga, Ayurveda, Naturopathy, Homeopathy,Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, Embedded Systems, Bio-Signal  Processing, Audio Signal Processing."
+ },
+ "academics": {
+  "icon": "fas fa-certificate",
+  "title": "Academic Background",
+  "content": [
+   {
+    "course": "Master of Technology",
+    "subject": "Embedded Systems",
+    "organization": "Amrita School of Engineering",
+    "start": "2009",
+    "end": "2010",
+    "score": "8.45 CGPA"
+   },
+   {
+    "course": "Bachelor of Technology",
+    "subject": "Electronics & Communication Engineering",
+    "organization": "Amrita School of Engineering",
+    "start": "2004",
+    "end": "2007",
+    "score": "6.73 CGPA"
+   },
+   {
+    "course": "Diploma",
+    "subject": "Electronics",
+    "organization": "JDT Islam Polytechnic",
+    "start": "2001",
+    "end": "2004",
+    "score": "80.64 %"
+   },
+   {
+    "course": "Certification",
+    "subject": "Computer Hardware Maintenance & Troubleshooting",
+    "organization": "Dhishna Learning Systems",
+    "start": "Jun 2000",
+    "end": "Dec 2000",
+    "score": "B Grade"
+   },
+   {
+    "course": "Higher Secondary Education (Pre-Degree)",
+    "subject": "Physics, Chemistry & Mathematics",
+    "organization": "St. Mary's College",
+    "start": "1998",
+    "end": "2000",
+    "score": "42.30 %"
+   },
+   {
+    "course": "Primary & Secondary Education",
+    "subject": "Basic Grammer, Mathematics, Science & Humanities",
+    "organization": "NSS High School",
+    "start": "1989",
+    "end": "1998",
+    "score": "62.66 %"
+   },
+   {
+    "course": "Primary Education",
+    "subject": "Basic Grammer, Mathematics, Science & Humanities",
+    "organization": "St. Joseph's High School",
+    "start": "1988",
+    "end": "1989",
+    "score": ""
+   }
+  ]
+ },
+ "publications": {
+  "icon": "fas fa-book",
+  "title": "Technical Publication",
+  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <a href='http://www.journal.bonfring.org/abstract.php?id=5&amp;archiveid=70#'><em>Wireless Embedded System for Power Line Monitoring</em></a>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42"
+ },
+ "occupations": {
+  "icon": "fa fa-suitcase",
+  "title": "History of Occupations",
+  "content": [
+   {
+    "designation": "Software Developer",
+    "industry": "Information Technology",
+    "organization": "Three Phase Techno Solutions Pvt. Ltd.",
+    "start": "Sep 2020",
+    "end": "Dec 2020",
+    "tools": [
+     "Golang",
+     "LaTeX",
+     "HTML",
+     "CSS",
+     "JavaScript",
+     "WebSocket"
+    ],
+    "duties": [
+     "Implementation of web API based on",
+     "Grafana reporter",
+     "for",
+     "PDF",
+     "report generation"
+    ]
+   },
+   {
+    "designation": "Freelance Embedded Engineer",
+    "industry": "Embedded Systems",
+    "organization": "",
+    "start": "Feb 2019",
+    "end": "Sep 2020",
+    "tools": [
+     "C",
+     "Python",
+     "Arduino IDE",
+     "Arduino Mega 2560"
+    ],
+    "duties": [
+     "Implementation of web API based on",
+     "Grafana reporter",
+     "for",
+     "PDF",
+     "report generation"
+    ]
+   }
+  ]
+ }
+}
