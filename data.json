@@ -79,7 +79,7 @@
  "publications": {
   "icon": "fas fa-book",
   "title": "Technical Publication",
-  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <a href='http://www.journal.bonfring.org/abstract.php?id=5&amp;archiveid=70#'><em>Wireless Embedded System for Power Line Monitoring</em></a>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42"
+  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <a href='http://www.journal.bonfring.org/abstract.php?id=5&amp;archiveid=70#'><em>Wireless Embedded System for Power Line Monitoring</em></a>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42."
  },
  "occupations": {
   "icon": "fa fa-suitcase",
@@ -99,32 +99,265 @@
      "JavaScript",
      "WebSocket"
     ],
-    "duties": [
-     "Implementation of web API based on",
-     "Grafana reporter",
+    "tasks": [
+     "Implementation of web",
+     "API",
+     "based on",
+     "Grafana Reporter",
      "for",
      "PDF",
-     "report generation"
+     "reports generation"
     ]
    },
    {
-    "designation": "Freelance Embedded Engineer",
+    "designation": "Freelance Technical Assistant",
     "industry": "Embedded Systems",
     "organization": "",
-    "start": "Feb 2019",
+    "start": "Feb 2020",
     "end": "Sep 2020",
     "tools": [
      "C",
      "Python",
      "Arduino IDE",
-     "Arduino Mega 2560"
+     "Arduino Mega 2560",
+     "Proteus Design Suite"
     ],
-    "duties": [
-     "Implementation of web API based on",
-     "Grafana reporter",
+    "tasks": [
+     "Design & Development of",
+     "Embedded Systems"
+    ]
+   },
+   {
+    "designation": "Software Developer",
+    "industry": "Information technology",
+    "organization": "Corehub Solutions Pvt. Ltd.",
+    "start": "Aug 2019",
+    "end": "Nov 2019",
+    "tools": [
+     "Golang",
+     "HTML",
+     "JavaScript",
+     "QOR Web Framework",
+     "Pencil"
+    ],
+    "tasks": [
+     "Implementation of",
+     "web applications",
      "for",
-     "PDF",
-     "report generation"
+     "CMS"
+    ]
+   },
+   {
+    "designation": "Freelance Technical Trainer",
+    "industry": "Embedded Systems",
+    "organization": "",
+    "start": "Feb 2019",
+    "end": "Aug 2019",
+    "tools": [
+     "Arduino IDE",
+     "NodeMCU",
+     "Fritzing",
+     "Ubidots",
+     "ThingSpeak",
+     "Blynk"
+    ],
+    "tasks": [
+     "Handling hands-on practical training sessions, related to",
+     "Embedded Systems",
+     "&",
+     "Internet of Things",
+     ", for the students of Science & Technology"
+    ]
+   },
+   {
+    "designation": "Trainee Computer Programmer",
+    "industry": "Information Technology",
+    "organization": "De Care Software Solutions",
+    "start": "Aug 2018",
+    "end": "Dec 2018",
+    "tools": [
+     "C#",
+     ".Net",
+     "Visual Studio",
+     "MVC",
+     "CodeIgnitor",
+     "HTML",
+     "CSS",
+     "JavaScript"
+    ],
+    "tasks": [
+     "Implementing additional features in existing software application used for",
+     "MIS"
+    ]
+   },
+   {
+    "designation": "Trainee System Builder",
+    "industry": "Computer Hardware",
+    "organization": "GeekBoZ - The Tech Store",
+    "start": "May 2018",
+    "end": "Aug 2018",
+    "tools": "",
+    "tasks": [
+     "Assembling, performance evaluation & troubleshooting of desktop computers for gaming and / or high performance applications"
+    ]
+   },
+   {
+    "designation": "Helper",
+    "industry": "Bakery & Food Catering",
+    "organization": "New Nila Bakes",
+    "start": "Mar 2018",
+    "end": "Apr 2018",
+    "tools": "",
+    "tasks": [
+     "Cleaning utensils & tables after use, on demand preparation of fruit juices, milk shakes & desserts"
+    ]
+   },
+   {
+    "designation": "Technical Assistant",
+    "industry": "Embedded Systems",
+    "organization": "Kabani Tech - Maker Space",
+    "start": "Jul 2017",
+    "end": "Feb 2018",
+    "tools": [
+     "Arduino IDE",
+     "Arduino UNO",
+     "NodeMCU",
+     "Python",
+     "Raspberry Pi",
+     "Proteus Design Suite",
+     "C",
+     "HTML",
+     "CSS",
+     "PHP",
+     "PIC Microcontroller"
+    ],
+    "tasks": [
+     "Computer Programming, Microcontroller Programming, Design & Implementation of Embedded Systems & Electronics Circuits"
+    ]
+   },
+   {
+    "designation": "Sales Assitant",
+    "industry": "Retail Hypermarket",
+    "organization": "Edumart Hypermarket",
+    "start": "17 Jul 2017",
+    "end": "25 Jul 2017",
+    "tasks": [
+     "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase"
+    ]
+   },
+   {
+    "designation": "Trainee Assistant Mechanic",
+    "industry": "Two Wheeler Automobiles",
+    "organization": "Shyam Motors",
+    "start": "5 Jun 2017",
+    "end": "24 Jun 2017",
+    "tasks": [
+     "Cleaning parts, assisting in service & repair"
+    ]
+   },
+   {
+    "designation": "Computer Service In-Charge",
+    "industry": "Information Technology",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Jun 2016",
+    "end": "Mar 2017",
+    "tasks": [
+     "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network"
+    ]
+   },
+   {
+    "designation": "Assistant Professor",
+    "industry": "Professional Education",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Jun 2015",
+    "end": "May 2016",
+    "tools": [
+     "Oscilloscope",
+     "Signal Generator",
+     "MATLAB"
+    ],
+    "subjects": "Digital Electronics, Sustainable Engineering, Digital Communications, Digital Signal Processing.",
+    "tasks": [
+     "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects"
+    ]
+   },
+   {
+    "designation": "Project Associate",
+    "industry": "Research",
+    "organization": "Dept. of Electrical Engineering, IIT Madras",
+    "start": "Feb 2015",
+    "end": "May 2015",
+    "tools": [
+     "Shell Script",
+     "PHP",
+     "Kaldi ASR",
+     "Asterisk Framework"
+    ],
+    "tasks": [
+     "Implementation of",
+     "IVR",
+     "using",
+     "ASR",
+     "&",
+     "TTS",
+     "for",
+     "ASR Mandi",
+     "project"
+    ]
+   },
+   {
+    "designation": "Assistant Professor",
+    "industry": "Professional Education",
+    "organization": "Jyothi Engineering College Cheruthuruthy",
+    "start": "Feb 2011",
+    "end": "Jan 2015",
+    "tools": [
+     "Oscilloscope",
+     "Signal Generator",
+     "MATLAB",
+     "Proteus Design Suite",
+     "Arduino IDE",
+     "Arduino UNO",
+     "ModelSim",
+     "C",
+     "VHDL",
+     "8086"
+    ],
+    "subjects": "Radiation & Propagation, Environmental Science, Electronics Circuits, Television Engineering & Radar Systems, Information Theory & Coding, Biomedical Engineering, Electronics Devices & Circuits, Microprocessors & Microcontrollers, Digital Signal Processing, Basic Electronics.",
+    "tasks": [
+     "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects"
+    ]
+   },
+   {
+    "designation": "Research Associate",
+    "industry": "Research",
+    "organization": "Amrita Center for Wireless Networks & Applications",
+    "start": "Aug 2010",
+    "end": "Jan 2011",
+    "tools": [
+     "LabVIEW",
+     "NI ELVIS",
+     "Proteus Design Suite",
+     "PIC Microcontroller",
+     "MicaZ Mote",
+     "nesC"
+    ],
+    "tasks": [
+     "Design, Development, Implementation & Testing of Embedded Systems for research requirements"
+    ]
+   },
+   {
+    "designation": "Member Technical Staff",
+    "industry": "Information Technology",
+    "organization": "HCL Technologies",
+    "start": "Aug 2007",
+    "end": "Apr 2008",
+    "tools": [
+     "Java",
+     "Microsoft Excel"
+    ],
+    "tasks": [
+     "Functional testing of Middleware software developed for Financial services"
     ]
    }
   ]
