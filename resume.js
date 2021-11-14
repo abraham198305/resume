@@ -18,7 +18,7 @@ function fnLoadData() {
 	fetch("data.json")
 		.then(response => response.json())
 		.then(data => {
-			str = [
+			let str = [
 				"objective",
 				"hobbies",
 				"interests",
@@ -30,7 +30,7 @@ function fnLoadData() {
      <div style="padding-bottom: 0.5rem; color: black; font-weight: bolder;"><i class="`+ data[item]["icon"] + `"></i> ` +
 					data[item]["title"] +
 					`</div>
-     <div style="padding-left: 0.5rem; font-size: smaller;">`+
+     <div style="padding-left: 1.5rem; font-size: smaller;">`+
 					data[item]["content"] +
 					`</div>
     </div>
@@ -39,11 +39,12 @@ function fnLoadData() {
 
 			str = [
 				"academics",
-				"occupations"
+				"occupations",
+				"trainings"
 			];
 			str.forEach(item => {
 				if (data[item] != null) {
-					strHtml = `
+					let strHtml = `
      <div>
      	<div style="color: black; font-weight: bolder;">
 							<i class="`+
@@ -52,17 +53,17 @@ function fnLoadData() {
 							<div style="padding-bottom: 0.5rem;"></div>
      	</div>
      `;
-					strHtml_1 = "";
-					index_1 = 0;
+					let strHtml_1 = "";
+					let index = 0;
 					data[item]["content"].forEach(item_1 => {
-						strPadding = "0.5";
-						if (index_1 == data[item]["content"].length - 1) {
+						let strPadding = "0.5";
+						if (index == data[item]["content"].length - 1) {
 							strPadding = "0";
 						};
-						index_1++;
+						index++;
 
-						strText_1 = "";
-						strText_2 = "";
+						let strText_1 = "";
+						let strText_2 = "";
 
 						switch (item) {
 							case str[0]:
@@ -71,93 +72,83 @@ function fnLoadData() {
 								break;
 							case str[1]:
 								strText_1 = item_1["designation"];
-								strText_2 = item_1["industry"];
+								strText_2 = item_1["field"];
+								break;
+							case str[2]:
+								strText_1 = item_1["category"];
+								strText_2 = item_1["scope"];
 								break;
 						}
-						/*
 
-						strOrg = "";
-						if (item_1["organization"] != "") {
-							strOrg = `<i class=" fas fa-landmark"></i> ` + fnStr2LinkHTML(item_1["organization"]) + `<br>`;
-						};
-						
-						strScore = "";
-						strType = "score";
+						let strOrg = "";
+						strType = "organization";
 						if (item_1[strType] != "" && item_1[strType] != null) {
-							strScore = `<br><i class="fas fa-chart-line"></i> ` + item_1[strType];
+							strOrg = `<tr><td><i class="fas fa-landmark"></i></td><td>` + fnStr2LinkHTML(item_1[strType]) + `</td></tr>`;
 						};
 
-						strTools = "";
-						strType = "tools";
+						let strIndustry = "";
+						strType = "industry";
 						if (item_1[strType] != "" && item_1[strType] != null) {
-							strTools = `<br><i class="fa fa-wrench"></i> ` + fnList2linksHTML(item_1[strType]);
+							strIndustry = `<tr><td><i class="fas fa-industry"></i></td><td>` + fnStr2LinkHTML(item_1[strType]) + `</td></tr>`;
 						};
 
-						strTasks = "";
-						strType = "tasks"
-						if (item_1[strType] != "" && item_1[strType] != null) {
-							strTasks = `<br><i class="fas fa-tasks"></i> ` + fnList2linksHTML(item_1[strType]);
-						};
-
-						strSubjects = "";
-						strType = "subjects"
-						if (item_1[strType] != "" && item_1[strType] != null) {
-							strSubjects = `<br><i class="fa fa-book"></i> ` + item_1[strType];
-						};
-						*/
-
-						strOrg = "";
-						if (item_1["organization"] != "") {
-							strOrg = `<tr><td><i class="fas fa-landmark"></i></td><td>` + fnStr2LinkHTML(item_1["organization"]) + `</td></tr>`;
-						};
-
-						strScore = "";
+						let strScore = "";
 						strType = "score";
 						if (item_1[strType] != "" && item_1[strType] != null) {
 							strScore = `<tr><td><i class="fas fa-chart-line"></i></td><td>` + item_1[strType] + `</td></tr>`;
 						};
 
-						strTools = "";
+						let strTools = "";
 						strType = "tools";
 						if (item_1[strType] != "" && item_1[strType] != null) {
 							strTools = `<tr><td><i class="fa fa-wrench"></i></td><td>` + fnList2linksHTML(item_1[strType]) + `</td></tr>`;
 						};
 
-						strTasks = "";
+						let strTasks = "";
 						strType = "tasks"
 						if (item_1[strType] != "" && item_1[strType] != null) {
 							strTasks = `<tr><td><i class="fas fa-tasks"></i></td><td>` + fnList2linksHTML(item_1[strType]) + `</td></tr>`;
 						};
 
-						strSubjects = "";
+						let strDate = "";
+						strType = "date"
+						if (item_1[strType] != "" && item_1[strType] != null) {
+							strDate = `<tr><td><i class="far fa-calendar-alt"></i></td><td>` + item_1[strType] + `</td></tr>`;
+						};
+
+						let strDuration = "";
+						if (item_1['start'] != "" && item_1['start'] != null && item_1['end'] != "" && item_1['end'] != null) {
+							strDuration = `<tr><td><i class="far fa-calendar-alt"></i></td><td>` + item_1["start"] + ` - ` + item_1["end"] + `</td></tr>`
+						}
+
+						let strSubjects = "";
 						strType = "subjects"
 						if (item_1[strType] != "" && item_1[strType] != null) {
 							strSubjects = `<tr><td><i class="fa fa-book"></i></td><td>` + item_1[strType] + `</td></tr>`;
 						};
 
+						let strTechnologies = "";
+						strType = "technologies"
+						if (item_1[strType] != "" && item_1[strType] != null) {
+							strTasks = `<tr><td><i class="fas fa-cog"></i></td><td>` + fnList2linksHTML(item_1[strType]) + `</td></tr>`;
+						};
+
 						strHtml_1 += `
-      <div style="padding-left: 0.5rem; font-size: smaller;">
-							<div style="font-weight: bolder;">`+ strText_1 + `</div>
-							<div>`+ strText_2 + `
-								<div style="padding-left: 0.5rem;">
+      <div style="padding-left: 1.5rem;">
+							<div style="font-weight: bolder; font-size: 0.9rem;">`+ strText_1 + `</div>
+							<div style="font-size: x-small;">`+ strText_2 + `
+								<div style="padding-left: 0.5rem; font-size: small;">
 								<table> `+
-							strOrg + `
-									<tr>
-										<td><i class="far fa-calendar-alt"></i></td><td>`
-							+ item_1["start"] +
-							` - ` +
-							item_1["end"] + `</td>
-									</tr>`+ strScore + strTools + strTasks + strSubjects + `
-								</table> ` +
-							/*	
-							<i class="far fa-calendar-alt"></i> ` +
-						item_1["start"] +
-						` - ` +
-						item_1["end"] +
-						strScore + strTools + strTasks + strSubjects + `
-						*/
-							""
-							+ `
+							strOrg +
+							strIndustry +
+							strDuration +
+							strDate +
+							strScore +
+							strTools +
+							strSubjects +
+							strTechnologies +
+							strTasks + `
+								</table> 
 								</div>
 							</div>
 							<div style="padding-bottom: `+ strPadding + `rem;"></div>
@@ -168,27 +159,166 @@ function fnLoadData() {
 					$('#' + item).append(strHtml);
 				};
 			});
-		});
 
+			item = "projects";
+			if (data[item] != null) {
+				let strHtml = `
+				<div>
+					<div style="color: black; font-weight: bolder;">
+						<i class="`+
+					data[item]["icon"] + `"></i> ` +
+					data[item]["title"] + `
+						<div style="padding-bottom: 0.5rem;"></div>
+					</div>
+					<div style="padding-left: 1.5rem;">
+				`;
+				let strHtml_1 = "";
+				let index = 0;
+				data[item]["content"].forEach(item_1 => {
+					let strText_1 = item_1["course"];
+					let strText_2 = item_1["subject"];
+					strHtml_1 += `
+						<div style="font-weight: bolder; font-size: 0.9rem;">`+ strText_1 + `</div>
+						<div style="font-size: x-small;">`+ strText_2 + `
+						<div style="padding-bottom: 0.5rem;"></div>
+							<div style="padding-left: 0.5rem; font-size: small;">
+								<ol>
+						`;
+					let strHtml_2 = "";
+					let index = 0;
+					item_1["projects"].forEach(item_2 => {
+						strHtml_2 += `
+									<li>
+										<i><strong>`+ item_2["title"] + `</strong><br></i>` +
+							item_2["description"] + `
+										<div style="padding-bottom: 0.5rem;"></div>
+									</li>
+					`
+					});
+					strHtml_1 += strHtml_2 + `
+								</ol >
+							</div >
+						</div >
+						`;
+				});
+				strHtml += strHtml_1 + `
+				</div >
+						`;
+
+				$('#' + item).append(strHtml);
+			};
+
+
+			item = "skills";
+			if (data[item] != null) {
+				let strHtml = `
+				<div>
+					<div style="color: black; font-weight: bolder;">
+						<i class="`+
+					data[item]["icon"] + `"></i> ` +
+					data[item]["title"] + `
+						<div style="padding-bottom: 0.5rem;"></div>
+					</div>
+					<div style="padding-left: 1.5rem;">
+				`;
+				let strHtml_1 = "";
+				let index = 0;
+				data[item]["content"].forEach(item_1 => {
+					let strText_1 = item_1["category"];
+					strHtml_1 += `
+						<div style="font-weight: bolder; font-size: 0.9rem;">`+ strText_1 + `</div>
+						<div style="padding-bottom: 0rem;"></div>
+							<div style="padding-left: 0.5rem; font-size: small;">
+								<ul>
+						`;
+					let strHtml_2 = "";
+					let index = 0;
+					if (item_1["skills"] != null) {
+						item_1["skills"].forEach(item_2 => {
+							strHtml_2 += `
+										<li> `+
+								item_2 +
+								`
+											<div style="padding-bottom: 0rem;"></div>
+										</li>
+						`
+						});
+					} else if (item_1["subcategory"] != null) {
+						item_1["subcategory"].forEach(item_2 => {
+							let strHtml_3 = "";
+							if (item_2["description"] != null) {
+								item_2["description"].forEach(item_3 => {
+									strHtml_3 += `
+									<ul>
+										<li> `+
+										item_3 +
+										`
+										</li>
+									</ul>
+					`
+								});
+							}
+							strHtml_2 += `
+										<li><i><b>`+
+								item_2["type"] +
+								`
+											</b></i>
+										</li> `+ strHtml_3 + `
+										<div style="padding-bottom: 0.2rem;"></div>
+						`
+						});
+					};
+					strHtml_1 += strHtml_2 + `
+								</ul>
+								<div style="padding-bottom: 0.5rem;"></div>
+							</div>
+						`;
+				});
+				strHtml += strHtml_1 + `
+				</div>
+						`;
+				$('#' + item).append(strHtml);
+			};
+
+			item = "languages";
+			if (data[item] != null) {
+				let strHtml = `
+				<div>
+					<div style="color: black; font-weight: bolder;">
+						<i class="`+
+					data[item]["icon"] + `"></i> ` +
+					data[item]["title"] + `
+						<div style="padding-bottom: 0.5rem;"></div>
+					</div>
+					<div style="padding-left: 1.5rem;">
+				` + data[item]["content"] + `</div>`;
+				$('#' + item).append(strHtml);
+			}
+
+		});
 }
 
 function fnList2linksHTML(arrayStr) {
+	let strSeperator = "";
 	switch (strType) {
 		case "tools":
 			strSeperator = ", ";
+			break;
+		case "technologies":
+			strSeperator = "";
 			break;
 		case "tasks":
 			strSeperator = " ";
 			break;
 	}
-	strLinkHTML = ""
-	index_2 = 0;
+	let strLinkHTML = ""
+	let index = 0;
 	arrayStr.forEach(item => {
 		strLinkHTML += fnStr2LinkHTML(item);
-		if (index_2 < arrayStr.length - 1) {
+		if (index < arrayStr.length - 1) {
 			strLinkHTML += strSeperator;
 		};
-		index_2++;
+		index++;
 	});
 	strLinkHTML += "."
 	return strLinkHTML;
@@ -196,7 +326,7 @@ function fnList2linksHTML(arrayStr) {
 
 function fnStr2LinkHTML(str) {
 	if (links[str] != null) {
-		return `<a href='` + links[str] + `'>` + str + `</a>`;
+		return `<a href = '` + links[str] + `' > ` + str + `</a>`;
 	}
 	return str;
 }

@@ -87,7 +87,7 @@
   "content": [
    {
     "designation": "Software Developer",
-    "industry": "Information Technology",
+    "field": "Information Technology",
     "organization": "Three Phase Techno Solutions Pvt. Ltd.",
     "start": "Sep 2020",
     "end": "Dec 2020",
@@ -111,7 +111,7 @@
    },
    {
     "designation": "Freelance Technical Assistant",
-    "industry": "Embedded Systems",
+    "field": "Embedded Systems",
     "organization": "",
     "start": "Feb 2020",
     "end": "Sep 2020",
@@ -129,7 +129,7 @@
    },
    {
     "designation": "Software Developer",
-    "industry": "Information technology",
+    "field": "Information technology",
     "organization": "Corehub Solutions Pvt. Ltd.",
     "start": "Aug 2019",
     "end": "Nov 2019",
@@ -149,7 +149,7 @@
    },
    {
     "designation": "Freelance Technical Trainer",
-    "industry": "Embedded Systems",
+    "field": "Embedded Systems",
     "organization": "",
     "start": "Feb 2019",
     "end": "Aug 2019",
@@ -171,7 +171,7 @@
    },
    {
     "designation": "Trainee Computer Programmer",
-    "industry": "Information Technology",
+    "field": "Information Technology",
     "organization": "De Care Software Solutions",
     "start": "Aug 2018",
     "end": "Dec 2018",
@@ -192,7 +192,7 @@
    },
    {
     "designation": "Trainee System Builder",
-    "industry": "Computer Hardware",
+    "field": "Computer Hardware",
     "organization": "GeekBoZ - The Tech Store",
     "start": "May 2018",
     "end": "Aug 2018",
@@ -203,7 +203,7 @@
    },
    {
     "designation": "Helper",
-    "industry": "Bakery & Food Catering",
+    "field": "Bakery & Food Catering",
     "organization": "New Nila Bakes",
     "start": "Mar 2018",
     "end": "Apr 2018",
@@ -214,7 +214,7 @@
    },
    {
     "designation": "Technical Assistant",
-    "industry": "Embedded Systems",
+    "field": "Embedded Systems",
     "organization": "Kabani Tech - Maker Space",
     "start": "Jul 2017",
     "end": "Feb 2018",
@@ -237,7 +237,7 @@
    },
    {
     "designation": "Sales Assitant",
-    "industry": "Retail Hypermarket",
+    "field": "Retail Hypermarket",
     "organization": "Edumart Hypermarket",
     "start": "17 Jul 2017",
     "end": "25 Jul 2017",
@@ -247,9 +247,9 @@
    },
    {
     "designation": "Trainee Assistant Mechanic",
-    "industry": "Two Wheeler Automobiles",
+    "field": "Two Wheeler Automobiles",
     "organization": "Shyam Motors",
-    "start": "5 Jun 2017",
+    "start": "05 Jun 2017",
     "end": "24 Jun 2017",
     "tasks": [
      "Cleaning parts, assisting in service & repair"
@@ -257,7 +257,7 @@
    },
    {
     "designation": "Computer Service In-Charge",
-    "industry": "Information Technology",
+    "field": "Information Technology",
     "organization": "Jyothi Engineering College Cheruthuruthy",
     "start": "Jun 2016",
     "end": "Mar 2017",
@@ -267,7 +267,7 @@
    },
    {
     "designation": "Assistant Professor",
-    "industry": "Professional Education",
+    "field": "Professional Education",
     "organization": "Jyothi Engineering College Cheruthuruthy",
     "start": "Jun 2015",
     "end": "May 2016",
@@ -283,7 +283,7 @@
    },
    {
     "designation": "Project Associate",
-    "industry": "Research",
+    "field": "Research",
     "organization": "Dept. of Electrical Engineering, IIT Madras",
     "start": "Feb 2015",
     "end": "May 2015",
@@ -307,7 +307,7 @@
    },
    {
     "designation": "Assistant Professor",
-    "industry": "Professional Education",
+    "field": "Professional Education",
     "organization": "Jyothi Engineering College Cheruthuruthy",
     "start": "Feb 2011",
     "end": "Jan 2015",
@@ -330,7 +330,7 @@
    },
    {
     "designation": "Research Associate",
-    "industry": "Research",
+    "field": "Research",
     "organization": "Amrita Center for Wireless Networks & Applications",
     "start": "Aug 2010",
     "end": "Jan 2011",
@@ -348,7 +348,7 @@
    },
    {
     "designation": "Member Technical Staff",
-    "industry": "Information Technology",
+    "field": "Information Technology",
     "organization": "HCL Technologies",
     "start": "Aug 2007",
     "end": "Apr 2008",
@@ -361,5 +361,129 @@
     ]
    }
   ]
+ },
+ "trainings": {
+  "icon": "fa fa-industry",
+  "title": "Industrial Trainings",
+  "content": [
+   {
+    "category": "Automotive Electronic Equipments",
+    "scope": "Familiarization of Technologies",
+    "industry": "Robert Bosch Training Center",
+    "date": "09 Oct 2009",
+    "technologies": [
+     "ABS",
+     ", ",
+     "ESP",
+     ", ",
+     "CRDI"
+    ]
+   },
+   {
+    "category": "Telecommunication Equipments",
+    "scope": "Familiarization of Technologies & Manufacuring Processes",
+    "industry": "ITI Limited - Palakkad",
+    "start": "02 May 2005",
+    "end": "17 May 2005",
+    "technologies": [
+     "Smart Card",
+     ", ",
+     "SIM Card",
+     ", Multi-Layer ",
+     "PCB"
+    ]
+   }
+  ]
+ },
+ "projects": {
+  "icon": "fas fa-project-diagram",
+  "title": "Academic Projects",
+  "content": [
+   {
+    "course": "Master of Technology",
+    "subject": "Embedded Systems",
+    "projects": [
+     {
+      "title": "Microcontroller based DC motor speed control",
+      "description": "Implemented a closed loop feedback based speed control software algorithm in PIC Microcontroller for a 2.5 Watt DC Motor using Pulse Width Modulated (PWM) switching of the supplied DC power to the motor. The speed of the motor is sensed by using a Photo Interrupter sensor setup across the spindle of the motor. The PWM signal is generated from the Microcontrollers PWM module according to the algorithm written. The PWM signal is connected to the driver circuit which controls the power supply to the DC motor. The width of the generated PWM switching signal to the motor’s DC power supply is continuously adjusted by the control software based on the calculated difference in the sensed speed and the user desired speed. The user desired speed is sensed through a potentiometer which is adjustable by the user."
+     },
+     {
+      "title": "Feature extraction and classification of ECG signals using Discrete Wavelet Transform & Artificial Neural Networks ",
+      "description": "Implemented an algorithm in MATLAB for classification of Electrocardiogram (ECG) Signals. Inbuilt MATLAB functions were used to implement the Artificial Neural Network (ANN). The ECG Database from Physionet is used for ANN training and testing of the program. The Statistical parameters (Standard deviation, Mean, variance, etc..) of the Wavelet coefficients of the ECG signal are taken as the features for detecting the abnormality."
+     },
+     {
+      "title": "Wireless Embedded System for Powerline Monitoring",
+      "description": "Implemented a WiFi and IEEE 802.15.4 based wireless embedded system (Hardware & Software) for continuous monitoring of the electric parameters of an Electric Power Transmission Line. The system consisted the following sub-modules: <ol style=\"padding-left: 2rem;\"><li>A pair of Hall effect based transducers for sensing the voltage & current.</li><li>Microcontroller with built in ADC modules for signal processing.</li><li>WiFi & ZigBee based Wireless transceiver modules for wireless communication.</li><li>Personal Computer for Visualization.</ol><div style=\"padding-top:0.5rem;\"></div>The software developed using C# & .Net using Visual Studio visulaized the following in real-time:<ul style=\"padding-left: 2rem;\"><li>Time domain representation of voltage & current waveforms.</li><li>Frequency domain representation of voltage or current signal.</li><li>Phasor diagram showing phase difference between voltage & current waveforms.</li><li>RMS values of voltage and current."
+     }
+    ]
+   },
+   {
+    "course": "Bachelor of Technology",
+    "subject": "Electronics & Communication Engineering",
+    "projects": [
+     {
+      "title": "Simulation of 4-Bit Microprocessor",
+      "description": "Simulated a 4-bit Microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language."
+     },
+     {
+      "title": "Wireless Di-Wheel Robot for Navigation on Predefined Routes",
+      "description": "Designed & Implemented a Computer Controlled Di-Wheeled Robot using PIC16F877 Microcontroller, 27MHz Wireless RC Kit & a pair of geared DC motors each with a power rating of 2 Watts. The routes containing straight lines with bends of either 45 degrees or 90 degrees are drawn on a Personal Computer using Microsoft Paint software and is stored as a Bitmap image. The Bitmap image is processed using the image processing algorithm written & implemented in MATLAB. The algorithm converts the Bitmap image to a sequence of ASCII formatted bytes containing the information about distances & bend angles according to the lines drawn in the image. The ASCII formated byte sequence generated by the MATLAB algorithm is sent to the Microcontroller through the RS232 serial interface of the PC. The algorithm written using the assembly language in the Microcontroller decodes the byte stream received at the RS232 interface & through its parallel port interface, controlls the voltage levels at the controll button pins of the RC kit's remote transmitter. The wireless receiver module receives the signals sent by remote transmitter module and the in-built driver circuit installed on the Di-Wheeled robot drives the motors attached to its wheels according to the RC signals received. The robot moves in straight lines for specific distance and turns at specific angles in sequence to match the route drawn remotely on the PC."
+     }
+    ]
+   },
+   {
+    "course": "Diploma",
+    "subject": "Electronics",
+    "projects": [
+     {
+      "title": "Digital Attendance Register",
+      "description": "Implemented an Electronic Attendance Register based on Intel’s 8085 Microprocessor."
+     }
+    ]
+   }
+  ]
+ },
+ "skills": {
+  "icon": "fas fa-wrench",
+  "title": "Technical Skills",
+  "content": [
+   {
+    "category": "Electronic Hardware",
+    "skills": [
+     "Ability to Design, Implement & Debug Analog & Digital Electronic Circuits.",
+     "Programming & Interfacing Microprocessor & Microcontroller based systems - 8085/86, PIC, ARM, AVR, Arduino, NodeMCU.",
+     "Hardware maintenance & troubleshooting of desktop computers & related peripherals."
+    ]
+   },
+   {
+    "category": "Computer Software",
+    "subcategory": [
+     {
+      "type": "Operating Systems",
+      "description": [
+       "Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting & basic networking.",
+       "Ubuntu - Installation, basic networking & shell scripting."
+      ]
+     },
+     {
+      "type": "Programming Languages",
+      "description": [
+       "C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, Golang, PHP, JavaScript, LaTeX, VHDL, Verilog, C#, HTML, CSS, nesC."
+      ]
+     },
+     {
+      "type": "Tools",
+      "description": [
+       "MATLAB, LabVIEW, MP-LAB IDE, Proteus, Arduino IDE, Microsoft Visual Studio (2005, 2008), Visual Studio Code, Android Studio."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "languages": {
+  "icon": "fas fa-globe-asia",
+  "title": "Languages",
+  "content": "<ul><li><a href=\"https://en.wikipedia.org/wiki/Malayalam\">മലയാളം</a></li><li>English</li></ul>"
  }
 }

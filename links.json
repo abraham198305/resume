@@ -22,6 +22,8 @@
  "Corehub Solutions Pvt. Ltd.": "https://corehub.in/",
  "ICT Academy of Kerala": "https://ictkerala.org/",
  "Three Phase Techno Solutions Pvt. Ltd.": "https://www.3phtechsolutions.com/",
+ "Robert Bosch Training Center": "https://goo.gl/maps/YfZLDZx3JXJJDN4N9",
+ "ITI Limited - Palakkad": "https://www.itiltd.in/palakkad",
  "Oscilloscope": "https://en.wikipedia.org/wiki/Oscilloscope",
  "Signal Generator": "https://en.wikipedia.org/wiki/Signal_generator",
  "IVR": "https://en.wikipedia.org/wiki/Interactive_voice_response",
@@ -69,6 +71,7 @@
  "Visual Studio": "https://en.wikipedia.org/wiki/Microsoft_Visual_Studio",
  "VSCode": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
  "SIM Card": "https://en.wikipedia.org/wiki/SIM_card",
+ "Smart Card": "https://en.wikipedia.org/wiki/Smart_card",
  "PCB": "https://en.wikipedia.org/wiki/Printed_circuit_board",
  "MVC": "https://codeigniter.com/userguide3/overview/mvc.html",
  "CodeIgnitor": "https://codeigniter.com/userguide3/overview/mvc.html",
@@ -83,5 +86,8 @@
  "LabVIEW": "https://en.wikipedia.org/wiki/LabVIEW",
  "NI ELVIS": "https://www.ni.com/en-in/shop/engineering-education/engineering-lab-stations/ni-elvis-engineering-lab-workstation/what-is-ni-elvis.html",
  "MP-LAB IDE": "https://en.wikipedia.org/wiki/MPLAB",
- "ModelSim": "https://en.wikipedia.org/wiki/ModelSim"
+ "ModelSim": "https://en.wikipedia.org/wiki/ModelSim",
+ "ABS": "https://www.bosch-mobility-solutions.com/en/solutions/driving-safety/antilock-braking-system/",
+ "ESP": "https://www.bosch-mobility-solutions.com/en/solutions/driving-safety/electronic-stability-program/",
+ "CRDI": "https://www.bosch-mobility-solutions.com/en/solutions/powertrain/diesel/common-rail-system-piezo/"
 }

@@ -24,6 +24,11 @@ a {
  margin: 0;
 }
 
+ol, ul {
+ padding: 0 0 0 1rem;
+ margin: 0;
+}
+
 body {
  width: 75%;
  margin: auto;
