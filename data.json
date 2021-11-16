@@ -450,9 +450,28 @@
    {
     "category": "Electronic Hardware",
     "skills": [
-     "Ability to Design, Implement & Debug Analog & Digital Electronic Circuits.",
-     "Programming & Interfacing Microprocessor & Microcontroller based systems - 8085/86, PIC, ARM, AVR, Arduino, NodeMCU.",
-     "Hardware maintenance & troubleshooting of desktop computers & related peripherals."
+     [
+      "Ability to design, implement, test & debug Analog & Digital Electronic Circuits."
+     ],
+     [
+      "Programming & Interfacing Microprocessor & Microcontroller based systems - ",
+      "8085",
+      ", ",
+      "8086",
+      ", ",
+      "PIC",
+      ", ",
+      "ARM",
+      ", ",
+      "AVR",
+      ", ",
+      "Arduino",
+      ", ",
+      "NodeMCU"
+     ],
+     [
+      "Hardware maintenance & troubleshooting of desktop computers & related peripherals."
+     ]
     ]
    },
    {
@@ -461,20 +480,73 @@
      {
       "type": "Operating Systems",
       "description": [
-       "Windows 10, 7, XP, 98 - Installation, configuration, troubleshooting & basic networking.",
-       "Ubuntu - Installation, basic networking & shell scripting."
+       "Installation, configuration, troubleshooting & basic networking of Windows (10, 7, XP, 98), ",
+       "Ubuntu Desktop",
+       " ",
+       "LTS (16, 18, 20)"
       ]
      },
      {
       "type": "Programming Languages",
       "description": [
-       "C, Embedded C, Assembly (PIC, 8085/86, ARM), Python, Golang, PHP, JavaScript, LaTeX, VHDL, Verilog, C#, HTML, CSS, nesC."
+       "C",
+       ", ",
+       "Embedded C",
+       ", ",
+       "Assembly Language",
+       " ",
+       "(",
+       "PIC",
+       ", ",
+       "8085",
+       ", ",
+       "8086",
+       ", ",
+       "ARM",
+       "), ",
+       "Python",
+       ", ",
+       "Golang",
+       ", ",
+       "PHP",
+       ", ",
+       "JavaScript",
+       ", ",
+       "LaTeX",
+       ", ",
+       "VHDL",
+       ", ",
+       "Verilog",
+       ", ",
+       "C#",
+       ", ",
+       "HTML",
+       ", ",
+       "CSS",
+       ", ",
+       "nesC",
+       "."
       ]
      },
      {
       "type": "Tools",
       "description": [
-       "MATLAB, LabVIEW, MP-LAB IDE, Proteus, Arduino IDE, Microsoft Visual Studio (2005, 2008), Visual Studio Code, Android Studio."
+       "MATLAB",
+       ", ",
+       "LabVIEW",
+       ", ",
+       "MP-LAB IDE",
+       ", ",
+       "Proteus Design Suite",
+       ", ",
+       "Arduino IDE",
+       ", ",
+       "Visual Studio",
+       ", ",
+       "VSCode",
+       ", ",
+       "Android Studio",
+       "."
       ]
      }
     ]
