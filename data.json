@@ -7,12 +7,12 @@
  "hobbies": {
   "icon": "fas fa-puzzle-piece",
   "title": "Hobbies",
-  "content": "Computer Programming, Computer simulation of electronics & embedded systems, Sound editing, Playing simulation based computer games (4 Wheelers & Aircraft), Reading technical & philosophical books, Blogging about my philosophical & technical thoughts, Listening to instrumental, new age & melodious musics, Watching science fiction & philosophical movies, Photography, Exploring philosophical & technical information openly available through the internet."
+  "content": "Computer Programming, Computer simulation of electronics & <l>Embedded Systems</l>, Sound editing, Playing simulation based computer games (4 Wheelers & Aircraft), Reading technical & philosophical books, Blogging about my philosophical & technical thoughts, Listening to instrumental, new age & melodious musics, Watching science fiction & philosophical movies, Photography, Exploring philosophical & technical information openly available through the internet."
  },
  "interests": {
   "icon": "fas fa-book",
   "title": "Areas of Interest",
-  "content": "Philosophy, Theosophy, Metaphysics, Spirituality, Psychology, Parapsychology, Astrology, Yoga, Ayurveda, Naturopathy, Homeopathy,Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, Embedded Systems, Bio-Signal  Processing, Audio Signal Processing."
+  "content": "Philosophy, Theosophy, Metaphysics, Spirituality, Psychology, Parapsychology, Astrology, Yoga, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, Bio-Signal  Processing, Audio Signal Processing."
  },
  "academics": {
   "icon": "fas fa-certificate",
@@ -79,7 +79,7 @@
  "publications": {
   "icon": "fas fa-book",
   "title": "Technical Publication",
-  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <a href='http://www.journal.bonfring.org/abstract.php?id=5&amp;archiveid=70#'><em>Wireless Embedded System for Power Line Monitoring</em></a>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42."
+  "content": "P.A Abraham, Dr. K.A Narayanankutty, Dr. T.N Padmanabhan Nambiar, <em><l>Wireless Embedded System for Power Line Monitoring</l></em>, Bonfring International Journal of Power Systems and Integrated Circuits, Vol. 1, Special Issue, December 2011, page 39 - 42."
  },
  "occupations": {
   "icon": "fa fa-suitcase",
@@ -99,15 +99,7 @@
      "JavaScript",
      "WebSocket"
     ],
-    "tasks": [
-     "Implementation of web",
-     "API",
-     "based on",
-     "Grafana Reporter",
-     "for",
-     "PDF",
-     "reports generation"
-    ]
+    "tasks": "Implementation of web <l>API</l> based on <l>Grafana Reporter</l> for <l>PDF</l> reports generation"
    },
    {
     "designation": "Freelance Technical Assistant",
@@ -122,10 +114,7 @@
      "Arduino Mega 2560",
      "Proteus Design Suite"
     ],
-    "tasks": [
-     "Design & Development of",
-     "Embedded Systems"
-    ]
+    "tasks": "Design & Development of <l>Embedded Systems</l>"
    },
    {
     "designation": "Software Developer",
@@ -140,12 +129,7 @@
      "QOR Web Framework",
      "Pencil"
     ],
-    "tasks": [
-     "Implementation of",
-     "web applications",
-     "for",
-     "CMS"
-    ]
+    "tasks": "Implementation of web applications for <l>CMS</l>"
    },
    {
     "designation": "Freelance Technical Trainer",
@@ -161,13 +145,7 @@
      "ThingSpeak",
      "Blynk"
     ],
-    "tasks": [
-     "Handling hands-on practical training sessions, related to",
-     "Embedded Systems",
-     "&",
-     "Internet of Things",
-     ", for the students of Science & Technology"
-    ]
+    "tasks": "Handling hands-on practical training sessions, related to <l>Embedded Systems</l> & <l>Internet of Things</l> for the students of Science & Technology."
    },
    {
     "designation": "Trainee Computer Programmer",
@@ -185,10 +163,7 @@
      "CSS",
      "JavaScript"
     ],
-    "tasks": [
-     "Implementing additional features in existing software application used for",
-     "MIS"
-    ]
+    "tasks": "Implementing additional features in existing software application used for <l>MIS</l>"
    },
    {
     "designation": "Trainee System Builder",
@@ -197,9 +172,7 @@
     "start": "May 2018",
     "end": "Aug 2018",
     "tools": "",
-    "tasks": [
-     "Assembling, performance evaluation & troubleshooting of desktop computers for gaming and / or high performance applications"
-    ]
+    "tasks": "Assembling, performance evaluation & troubleshooting of desktop computers for gaming and / or high performance applications"
    },
    {
     "designation": "Helper",
@@ -208,9 +181,7 @@
     "start": "Mar 2018",
     "end": "Apr 2018",
     "tools": "",
-    "tasks": [
-     "Cleaning utensils & tables after use, on demand preparation of fruit juices, milk shakes & desserts"
-    ]
+    "tasks": "Cleaning utensils & tables after use, on demand preparation of fruit juices, milk shakes & desserts"
    },
    {
     "designation": "Technical Assistant",
@@ -231,9 +202,7 @@
      "PHP",
      "PIC Microcontroller"
     ],
-    "tasks": [
-     "Computer Programming, Microcontroller Programming, Design & Implementation of Embedded Systems & Electronics Circuits"
-    ]
+    "tasks": "Computer Programming, Microcontroller Programming, Design & Implementation of <l>Embedded Systems</l> & Electronics Circuits."
    },
    {
     "designation": "Sales Assitant",
@@ -241,9 +210,7 @@
     "organization": "Edumart Hypermarket",
     "start": "17 Jul 2017",
     "end": "25 Jul 2017",
-    "tasks": [
-     "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase"
-    ]
+    "tasks": "Arrangement of merchandise, assisting customers to choose items to purchase, guiding the customers in selecting the appropriate items to purchase."
    },
    {
     "designation": "Trainee Assistant Mechanic",
@@ -251,9 +218,7 @@
     "organization": "Shyam Motors",
     "start": "05 Jun 2017",
     "end": "24 Jun 2017",
-    "tasks": [
-     "Cleaning parts, assisting in service & repair"
-    ]
+    "tasks": "Cleaning parts, assisting in service & repair."
    },
    {
     "designation": "Computer Service In-Charge",
@@ -261,9 +226,7 @@
     "organization": "Jyothi Engineering College Cheruthuruthy",
     "start": "Jun 2016",
     "end": "Mar 2017",
-    "tasks": [
-     "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network"
-    ]
+    "tasks": "Configuration, Maintenance & Troubleshooting of Computers, Printers, Scanners, Projectors & their Network."
    },
    {
     "designation": "Assistant Professor",
@@ -277,9 +240,7 @@
      "MATLAB"
     ],
     "subjects": "Digital Electronics, Sustainable Engineering, Digital Communications, Digital Signal Processing.",
-    "tasks": [
-     "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects"
-    ]
+    "tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
    },
    {
     "designation": "Project Associate",
@@ -293,17 +254,7 @@
      "Kaldi ASR",
      "Asterisk Framework"
     ],
-    "tasks": [
-     "Implementation of",
-     "IVR",
-     "using",
-     "ASR",
-     "&",
-     "TTS",
-     "for",
-     "ASR Mandi",
-     "project"
-    ]
+    "tasks": "Implementation of <l>IVR</l> using <l>ASR</l> & <l>TTS</l> for <l>ASR Mandi</l> project"
    },
    {
     "designation": "Assistant Professor",
@@ -324,9 +275,7 @@
      "8086"
     ],
     "subjects": "Radiation & Propagation, Environmental Science, Electronics Circuits, Television Engineering & Radar Systems, Information Theory & Coding, Biomedical Engineering, Electronics Devices & Circuits, Microprocessors & Microcontrollers, Digital Signal Processing, Basic Electronics.",
-    "tasks": [
-     "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects"
-    ]
+    "tasks": "Assisting undergraduate engineering students to learn the detailed theoretical & practical concepts related to Electronics & Communication Engineering, providing necessary guidance to do their academic projects."
    },
    {
     "designation": "Research Associate",
@@ -342,9 +291,7 @@
      "MicaZ Mote",
      "nesC"
     ],
-    "tasks": [
-     "Design, Development, Implementation & Testing of Embedded Systems for research requirements"
-    ]
+    "tasks": "Design, Development, Implementation & Testing of </l>Embedded Systems</l> for research requirements."
    },
    {
     "designation": "Member Technical Staff",
@@ -356,9 +303,7 @@
      "Java",
      "Microsoft Excel"
     ],
-    "tasks": [
-     "Functional testing of Middleware software developed for Financial services"
-    ]
+    "tasks": "Functional testing of Middleware software developed for Financial services"
    }
   ]
  },
@@ -405,11 +350,11 @@
     "projects": [
      {
       "title": "Microcontroller based DC motor speed control",
-      "description": "Implemented a closed loop feedback based speed control software algorithm in PIC Microcontroller for a 2.5 Watt DC Motor using Pulse Width Modulated (PWM) switching of the supplied DC power to the motor. The speed of the motor is sensed by using a Photo Interrupter sensor setup across the spindle of the motor. The PWM signal is generated from the Microcontrollers PWM module according to the algorithm written. The PWM signal is connected to the driver circuit which controls the power supply to the DC motor. The width of the generated PWM switching signal to the motor’s DC power supply is continuously adjusted by the control software based on the calculated difference in the sensed speed and the user desired speed. The user desired speed is sensed through a potentiometer which is adjustable by the user."
+      "description": "Implemented a closed loop feedback based speed control software algorithm in PIC Microcontroller for a 2.5 Watt DC Motor using Pulse Width Modulated (<l>PWM</l>) switching of the supplied DC power to the motor. The speed of the motor is sensed by using a Photo Interrupter sensor setup across the spindle of the motor. The <l>PWM</l> signal is generated from the Microcontrollers <l>PWM</l> module according to the algorithm written. The <l>PWM</l> signal is connected to the driver circuit which controls the power supply to the DC motor. The width of the generated <l>PWM</l> switching signal to the motor’s DC power supply is continuously adjusted by the control software based on the calculated difference in the sensed speed and the user desired speed. The user desired speed is sensed through a potentiometer which is adjustable by the user."
      },
      {
       "title": "Feature extraction and classification of ECG signals using Discrete Wavelet Transform & Artificial Neural Networks ",
-      "description": "Implemented an algorithm in MATLAB for classification of Electrocardiogram (ECG) Signals. Inbuilt MATLAB functions were used to implement the Artificial Neural Network (ANN). The ECG Database from Physionet is used for ANN training and testing of the program. The Statistical parameters (Standard deviation, Mean, variance, etc..) of the Wavelet coefficients of the ECG signal are taken as the features for detecting the abnormality."
+      "description": "Implemented an algorithm in <l>MATLAB</l> for classification of Electrocardiogram (ECG) Signals. Inbuilt <l>MATLAB</l> functions were used to implement the Artificial Neural Network (ANN). The ECG Database from Physionet is used for ANN training and testing of the program. The Statistical parameters (Standard deviation, Mean, variance, etc..) of the Wavelet coefficients of the ECG signal are taken as the features for detecting the abnormality."
      },
      {
       "title": "Wireless Embedded System for Powerline Monitoring",
@@ -427,7 +372,7 @@
      },
      {
       "title": "Wireless Di-Wheel Robot for Navigation on Predefined Routes",
-      "description": "Designed & Implemented a Computer Controlled Di-Wheeled Robot using PIC16F877 Microcontroller, 27MHz Wireless RC Kit & a pair of geared DC motors each with a power rating of 2 Watts. The routes containing straight lines with bends of either 45 degrees or 90 degrees are drawn using Microsoft Paint software and is stored as a Bitmap image. The Bitmap image is processed using the image processing algorithm written & implemented in MATLAB. The algorithm converts the Bitmap image to a sequence of ASCII formatted bytes containing the information about distances & bend angles according to the lines drawn in the image. The ASCII formated byte sequence generated by the MATLAB algorithm is sent to the Microcontroller through the RS232 serial interface of the PC. The algorithm written using the assembly language in the Microcontroller decodes the byte stream received at the RS232 interface & through its parallel port interface, controlls the voltage levels at the controll button pins of the RC kit's remote transmitter. The wireless receiver module receives the signals sent by remote transmitter module and decodes them. The in-built driver circuit installed on the Di-Wheeled robot drives the motors attached to its wheels according to the decoded byte codes received. The robot moves in straight lines for specific distance & turns at specific angles in sequence & repeates the steps until the signal transmission is completed which happens when byte stream transmission corresponding to the route completed remotely on the PC."
+      "description": "Designed & Implemented a Computer Controlled Di-Wheeled Robot using PIC16F877 Microcontroller, 27MHz Wireless RC Kit & a pair of geared DC motors each with a power rating of 2 Watts. The routes containing straight lines with bends of either 45 degrees or 90 degrees are drawn using Microsoft Paint software and is stored as a Bitmap image. The Bitmap image is processed using the image processing algorithm written & implemented in <l>MATLAB</l>. The algorithm converts the Bitmap image to a sequence of ASCII formatted bytes containing the information about distances & bend angles according to the lines drawn in the image. The ASCII formated byte sequence generated by the <l>MATLAB</l> algorithm is sent to the Microcontroller through the <l>RS232</l> serial interface of the PC. The algorithm written using the assembly language in the Microcontroller decodes the byte stream received at the <l>RS232</l> interface & through its parallel port interface, controlls the voltage levels at the controll button pins of the RC kit's remote transmitter. The wireless receiver module receives the signals sent by remote transmitter module and decodes them. The in-built driver circuit installed on the Di-Wheeled robot drives the motors attached to its wheels according to the decoded byte codes received. The robot moves in straight lines for specific distance & turns at specific angles in sequence & repeates the steps until the signal transmission is completed which happens when byte stream transmission corresponding to the route completed remotely on the PC."
      }
     ]
    },
@@ -437,7 +382,7 @@
     "projects": [
      {
       "title": "Digital Attendance Register",
-      "description": "Implemented an Electronic Attendance Register based on Intel’s 8085 Microprocessor."
+      "description": "Implemented an Electronic Attendance Register based on Intel’s <l>8085</l> Microprocessor."
      }
     ]
    }

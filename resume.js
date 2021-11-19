@@ -29,7 +29,7 @@ function fnLoadData() {
 							data[item]["title"] +
 							`</div>
 						<div style="padding-left: 1.5rem; font-size: smaller;">`+
-							data[item]["content"] +
+							fnReplaceKeywords2Links(data[item]["content"]) +
 							`</div>
 					</div>
 				`);
@@ -105,7 +105,7 @@ function fnLoadData() {
 								let strTasks = "";
 								strType = "tasks"
 								if (item_1[strType] != "" && item_1[strType] != null) {
-									strTasks = `<tr><td><i class="fas fa-tasks"></i></td><td>` + fnList2linksHTML(item_1[strType]) + `</td></tr>`;
+									strTasks = `<tr><td><i class="fas fa-tasks"></i></td><td>` + fnReplaceKeywords2Links(item_1[strType]) + `</td></tr>`;
 								};
 
 								let strDate = "";
@@ -188,7 +188,7 @@ function fnLoadData() {
 								strHtml_2 += `
 										<li>
 											<i><strong>`+ item_2["title"] + `</strong><br></i>` +
-									item_2["description"] + `
+									fnReplaceKeywords2Links(item_2["description"]) + `
 											<div style="padding-bottom: 0.5rem;"></div>
 										</li>
 						`
@@ -290,8 +290,8 @@ function fnLoadData() {
 		});
 }
 
-var fnList2linksHTML = function (arrayStr) {
-	console.log(arrayStr);
+function fnList2linksHTML(arrayStr) {
+	//console.log(arrayStr);
 	if (!Array.isArray(arrayStr)) {
 		return fnStr2LinkHTML(arrayStr);
 	};
@@ -328,4 +328,23 @@ function fnStr2LinkHTML(str) {
 		return `<a href = '` + links[str] + `' >` + str + `</a>`;
 	}
 	return str;
+}
+
+function fnReplaceKeywords2Links(textWithKeywords) {
+	const strS = "<l>";
+	const strE = "</l>";
+	let strLinkKeyword = textWithKeywords;
+	let iS = textWithKeywords.indexOf(strS);
+	let iE = textWithKeywords.indexOf(strE);
+	let count = 0;
+	do {
+		let keyWord = strLinkKeyword.substring(iS + strS.length, iE);
+		strLinkKeyword = strLinkKeyword.replace(strS + keyWord + strE, fnStr2LinkHTML(keyWord));
+		//console.log(iS, keyWord, iE);
+		//console.log("Substring:" + strLinkKeyword);
+		count++;
+		iS = strLinkKeyword.indexOf(strS);
+		iE = strLinkKeyword.indexOf(strE);
+	} while (iE != -1 && iS != -1);
+	return strLinkKeyword;
 }
