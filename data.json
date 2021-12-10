@@ -86,6 +86,21 @@
   "title": "History of Occupations",
   "content": [
    {
+    "designation": "Freelance Technical Assistant",
+    "field": "Embedded Systems",
+    "start": "Dec 2020",
+    "end": "Present",
+    "tools": [
+     "Computer Hardware",
+     "Software",
+     "Programming Language",
+     "Machine Learning",
+     "Communication System",
+     "Internet of Things"
+    ],
+    "tasks": "Assiting in the design, development & implementation phases of <l>Embedded Systems</l> as per the requirement <l>Specification</l>."
+   },
+   {
     "designation": "Software Developer",
     "field": "Information Technology",
     "organization": "Three Phase Techno Solutions Pvt. Ltd.",
@@ -99,7 +114,7 @@
      "JavaScript",
      "WebSocket"
     ],
-    "tasks": "Implementation of web <l>API</l> based on <l>Grafana Reporter</l> for <l>PDF</l> reports generation"
+    "tasks": "Implementation of web <l>API</l> based on <l>Grafana Reporter</l> for <l>PDF</l> reports generation."
    },
    {
     "designation": "Freelance Technical Assistant",
