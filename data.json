@@ -12,7 +12,7 @@
  "interests": {
   "icon": "fas fa-book",
   "title": "Areas of Interest",
-  "content": "Philosophy, Theosophy, Metaphysics, Spirituality, Psychology, Parapsychology, Astrology, Yoga, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, Bio-Signal  Processing, Audio Signal Processing."
+  "content": "<l>Epistemology</l>, Philosophy, Theology, Theosophy, Metaphysics, Christianity, Spirituality, Psychology, Parapsychology, Astrology, Yoga, Ayurveda, Naturopathy, Homeopathy, Technology, Analog & Digital Electronics, Audio & Video Systems, Digital Signal Processing, Robotics & Automation, <l>Embedded Systems</l>, Bio-Signal  Processing, Audio Signal Processing."
  },
  "academics": {
   "icon": "fas fa-certificate",
