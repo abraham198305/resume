@@ -86,11 +86,26 @@
   "title": "History of Occupations",
   "content": [
    {
+    "designation": "Freelance Technical Assistant",
+    "field": "Embedded Systems",
+    "start": "Feb 2020",
+    "end": "Present",
+    "tools": [
+     "Computer Hardware",
+     "Software",
+     "Programming Language",
+     "Machine Learning",
+     "Communication System",
+     "Internet of Things"
+    ],
+    "tasks": "Assiting in the design, development, implementation, troubleshooting & configuration phases of <l>Embedded Systems</l> based products as per the requirement <l>Specification</l>."
+   },
+   {
     "designation": "Robotics Trainer",
     "field": "STEAM (Science Technology Engineering Art Mathematics) Education",
-    "organization": "RotechEdu Services & Solutions LLC",
+    "organization": "RotechEdu Services & Solutions LLP",
     "start": "Jan 2022",
-    "end": "Present",
+    "end": "Feb 2022",
     "tools": [
      "LEGO Education",
      "LEGO Mindstorms",
