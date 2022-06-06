@@ -86,29 +86,10 @@
   "title": "History of Occupations",
   "content": [
    {
-    "designation": "Research Fellow",
-    "field": "Research & Development",
-    "organization": "Jyothi Engineering College Cheruthuruthy",
-    "start": "Apr 2022",
-    "end": "Present",
-    "tools": [
-     "Mechanical Engineering",
-     "Electrical Engineering",
-     "Computer Hardware",
-     "Computer Software",
-     "Programming Language",
-     "Machine Learning",
-     "Artificial Intelligence",
-     "Communication System",
-     "Internet of Things"
-    ],
-    "tasks": "Design, Development, Implementation & Testing of Systems as per the research requirements' <l>Specification</l>."
-   },
-   {
     "designation": "Freelance Technical Assistant",
     "field": "Embedded Systems",
     "start": "Feb 2022",
-    "end": "Apr 2022",
+    "end": "Present",
     "tools": [
      "Computer Hardware",
      "Software",
