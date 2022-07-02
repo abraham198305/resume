@@ -417,7 +417,7 @@
     "projects": [
      {
       "title": "Simulation of 4-Bit Microprocessor",
-      "description": "Simulated a 4-bit Microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language along with a custom Assembly language compiler software written in C Programming language. The system consisted the following sub-modules: <ul style=\"padding-left: 2rem;\"><li>Basic Gates in Data Flow modelling</li><li>Ripple Carry Adder using Structural modelling</li><li>Arithmetic & Logic Unit (ALU) using Structural Modelling</li><li>Decoder using Behavioral modelling</li><li>RAM (Random Access Memory) & Buffers using Dataflow modelling</li><li>All Sub-Modules Integrated using Structural modelling</li><li>Assembly language compiler written in C programming language.</li></ul><div style=\"padding-top:0.5rem;\"></div>"
+      "description": "Simulated a 4-bit Microprocessor in ModelSim HDL Simulator using Verilog Hardware Description Language along with a custom Assembly language compiler software written in C Programming language. The system consisted the following sub-modules: <ul style=\"padding-left: 2rem;\"><li>Basic Gates in Data Flow modeling</li><li>Ripple Carry Adder using Structural modeling</li><li>Arithmetic & Logic Unit (ALU) using Structural modeling</li><li>Decoder using Behavioral modelling</li><li>RAM (Random Access Memory) & Buffers using Dataflow modeling</li><li>Finite State Machine using Behavioral modeling</li><li>All Sub-Modules Integrated using Structural modeling</li><li>Assembly language compiler written in C programming language.</li></ul><div style=\"padding-top:0.5rem;\"></div>"
      },
      {
       "title": "Wireless Di-Wheel Robot for Navigation on Predefined Routes",
