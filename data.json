@@ -558,6 +558,6 @@
  "languages": {
   "icon": "fas fa-globe-asia",
   "title": "Languages",
-  "content": "<ul><li id=\"textMalayalam\"><a href=\"https://en.wikipedia.org/wiki/Malayalam\">മലയാളം</a></li><li>English</li></ul>"
+  "content": "<ul><li><a id=\"textMalayalam\" href=\"https://en.wikipedia.org/wiki/Malayalam\">മലയാളം</a></li><li>English</li></ul>"
  }
 }
