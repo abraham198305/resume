@@ -38,7 +38,7 @@ a {
 }
 
 .icon {
- color: rgb(88, 88, 158);
+ fill: rgb(88, 88, 158);
  width: 1em;
  height: 1em;
  vertical-align: -0.125em;
