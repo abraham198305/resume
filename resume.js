@@ -184,7 +184,7 @@ function fnLoadData() {
 					item_1["projects"].forEach(item_2 => {
 						strHtml_2 += `
 										<li>
-											<i><strong>`+ item_2["title"] + `</strong><br></i>` +
+											<i><strong>`+ fnReplaceKeywords2Links(item_2["title"]) + `</strong><br></i>` +
 							fnReplaceKeywords2Links(item_2["description"]) + `
 											<div style="padding-bottom: 0.5rem;"></div>
 										</li>
@@ -336,8 +336,8 @@ function fnReplaceKeywords2Links(textWithKeywords) {
 	do {
 		let keyWord = strLinkKeyword.substring(iS + strS.length, iE);
 		strLinkKeyword = strLinkKeyword.replace(strS + keyWord + strE, fnStr2LinkHTML(keyWord));
-		//console.log(iS, keyWord, iE);
-		//console.log("Substring:" + strLinkKeyword);
+		console.log(iS, keyWord, iE);
+		console.log("Substring:" + strLinkKeyword);
 		count++;
 		iS = strLinkKeyword.indexOf(strS);
 		iE = strLinkKeyword.indexOf(strE);
