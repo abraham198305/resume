@@ -5,7 +5,6 @@ var links;
 function fnInit() {
 	console.log("init");
 	fnLoadData();
-	//fnTestElementFromStructure();
 }
 
 function fnLoadData() {
@@ -20,48 +19,6 @@ function fnLoadData() {
 				"publications",
 			];
 			str.forEach(item => {
-				const elementStructure = {
-					"tagName": "div",
-					"style": {
-						"padding-bottom": "1rem",
-					},
-					"children": [
-						{
-							"tagName": "div",
-							"style": {
-								"padding-bottom": "0.5rem",
-								"color": "black",
-								"font-weight": "bolder"
-							},
-							"children": [
-								{
-									"tagName": "i",
-									"class": data[item]["icon"],
-								},
-								{
-									"tagName": "span",
-									"style": {
-										"padding-left":"0.2rem"
-									},
-									"innerText": data[item]["title"]
-								}
-
-							],
-						},
-						{
-							"tagName": "div",
-							"style": {
-								"padding-left": "1.5rem",
-								"font-size": "smaller",
-								"text-align":"justify"
-							},
-							"innerHTML": fnReplaceKeywords2Links(data[item]["content"])
-						}
-					]
-				};
-				$('#' + item).append(fnCreateHTMLElementFromTableStructure(elementStructure));
-
-				/*
 				$('#' + item).append(`
 					<div style="padding-bottom: 1rem;">
 						<div style="padding-bottom: 0.5rem; color: black; font-weight: bolder;"><i class="`+ data[item]["icon"] + `"></i> ` +
@@ -72,7 +29,6 @@ function fnLoadData() {
 					`</div>
 					</div>
 				`);
-				*/
 			});
 
 			str = [
@@ -330,90 +286,6 @@ function fnLoadData() {
 	});
 }
 
-function fnTestElementFromStructure() {
-	const elementStructure = {
-		"tagName": "div",
-		"style": {
-			"color": "black",
-		},
-		"innerText": "DIV",
-		"children": [
-			{
-				"tagName": "h1",
-				"style": {
-					"color": "green"
-				},
-				"innerText": "H1",
-				"innerHTML": "<h2>Hello World</h2>"
-			},
-			{
-				"tagName": "h2",
-				"style": {
-					"color": "red",
-					"text-align": "center",
-					"background-color": "yellow"
-				},
-				"children": [
-					{
-						"tagName": "i",
-						"class": "fas fa-book",
-					},
-					{
-						"tagName": "span",
-						"style": {
-							"padding-left": "0.5rem"
-						},
-						"innerText": "H2",
-					}
-				],
-				"innerHTML": "<i>Hello Two World<i>"
-			}
-		]
-	}
-	const testElement = fnCreateHTMLElementFromTableStructure(elementStructure);
-	const elTest = document.getElementById("test");
-	elTest.append(testElement);
-	console.log(elTest.innerText);
-}
-
-function fnCreateHTMLElementFromTableStructure(elementStructure) {
-	if ("tagName" in elementStructure) {
-		const elementHTML = document.createElement(elementStructure["tagName"]);
-		/*
-		if (key === "class") {
-			elementHTML.className = elementStructure["class"];
-		} else 
-		 */
-		if ("style" in elementStructure) {
-			let attrStyle = "";
-			for (const key1 in elementStructure["style"]) {
-				attrStyle += `${key1}:${elementStructure["style"][key1]};`
-			};
-			elementHTML.setAttribute("style", attrStyle);
-		}
-		if ("innerHTML" in elementStructure) {
-			elementHTML.innerHTML = elementStructure["innerHTML"];
-		}
-		if ("children" in elementStructure) {
-			elementStructure["children"].forEach(childElementStructure => {
-				const elementHTMLChild = fnCreateHTMLElementFromTableStructure(childElementStructure);
-				console.log(elementHTMLChild.tagName);
-				elementHTML.appendChild(elementHTMLChild);
-			});
-		}
-		if ("innerText" in elementStructure) {
-			elementHTML.append(document.createTextNode(elementStructure["innerText"]));
-		}
-		if ("class" in elementStructure) {
-			elementHTML.setAttribute("class", elementStructure["class"]);
-			console.log("class", elementStructure["class"], elementHTML.className, elementHTML.tagName);
-		}
-		console.log(elementHTML.innerHTML);
-		return elementHTML;
-		return document.createTextNode("");
-	}
-}
-
 function fnList2linksHTML(arrayStr) {
 	//console.log(arrayStr);
 	if (!Array.isArray(arrayStr)) {
@@ -464,8 +336,8 @@ function fnReplaceKeywords2Links(textWithKeywords) {
 	do {
 		let keyWord = strLinkKeyword.substring(iS + strS.length, iE);
 		strLinkKeyword = strLinkKeyword.replace(strS + keyWord + strE, fnStr2LinkHTML(keyWord));
-		//console.log(iS, keyWord, iE);
-		//console.log("Substring:" + strLinkKeyword);
+		console.log(iS, keyWord, iE);
+		console.log("Substring:" + strLinkKeyword);
 		count++;
 		iS = strLinkKeyword.indexOf(strS);
 		iE = strLinkKeyword.indexOf(strE);

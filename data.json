@@ -89,8 +89,8 @@
 				"designation": "Software Developer",
 				"field": "Information Technology",
 				"organization": "Kabani Tech - Maker Space",
-				"start": "22-Nov-2023",
-				"end": "22-May-2024",
+				"start": "22 Nov 2023",
+				"end": "22 May 2024",
 				"tools": [
 					"NodeJS",
 					"WebSocket",
@@ -98,7 +98,7 @@
 					"HTML",
 					"CSS"
 				],
-				"tasks": "Assisting in implementing <l>Web Applications</l> for <l>Content Management Systems</l> & <l>Internet of Things</l>"
+				"tasks": "Assisting technically in implementing <l>Web Applications</l> for <l>Content Management Systems</l> & <l>Internet of Things</l>"
 			},
 			{
 				"designation": "Freelance Technical Assistant",
