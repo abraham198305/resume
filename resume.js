@@ -41,7 +41,7 @@ function fnLoadData() {
 								{
 									"tagName": "span",
 									"style": {
-										"padding-left":"0.2rem"
+										"padding-left": "0.2rem"
 									},
 									"innerText": data[item]["title"]
 								}
@@ -53,7 +53,7 @@ function fnLoadData() {
 							"style": {
 								"padding-left": "1.5rem",
 								"font-size": "smaller",
-								"text-align":"justify"
+								"text-align": "justify"
 							},
 							"innerHTML": fnReplaceKeywords2Links(data[item]["content"])
 						}
@@ -212,7 +212,6 @@ function fnLoadData() {
 						<div style="padding-left: 1.5rem;">
 					`;
 				let strHtml_1 = "";
-				let index = 0;
 				data[item]["content"].forEach(item_1 => {
 					let strText_1 = item_1["course"];
 					let strText_2 = item_1["subject"];
@@ -224,7 +223,6 @@ function fnLoadData() {
 									<ol>
 							`;
 					let strHtml_2 = "";
-					let index = 0;
 					item_1["projects"].forEach(item_2 => {
 						strHtml_2 += `
 										<li>
@@ -397,7 +395,7 @@ function fnCreateHTMLElementFromTableStructure(elementStructure) {
 		if ("children" in elementStructure) {
 			elementStructure["children"].forEach(childElementStructure => {
 				const elementHTMLChild = fnCreateHTMLElementFromTableStructure(childElementStructure);
-				console.log(elementHTMLChild.tagName);
+				//console.log(elementHTMLChild.tagName);
 				elementHTML.appendChild(elementHTMLChild);
 			});
 		}
@@ -408,9 +406,8 @@ function fnCreateHTMLElementFromTableStructure(elementStructure) {
 			elementHTML.setAttribute("class", elementStructure["class"]);
 			console.log("class", elementStructure["class"], elementHTML.className, elementHTML.tagName);
 		}
-		console.log(elementHTML.innerHTML);
+		//console.log(elementHTML.innerHTML);
 		return elementHTML;
-		return document.createTextNode("");
 	}
 }
 
